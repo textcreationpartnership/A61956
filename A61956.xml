@@ -1,0 +1,1073 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mulierum amicus: or, The womans friend plainly discovering all those diseases that are incident to that sex only, and advising them to cure, either 1. By those receipts prescribed. Or, 2. By certain secret arcanums and specifical medicines. The author hereof living at the sign of the Golden Ball and Flower-Pot in Mark-Lane in Tower-street, and is lycensiate in physick, and student in chymistry; known commonly by the name of Nich. Sudell.</title>
+            <author>Sudell, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 153 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61956</idno>
+            <idno type="STC">Wing S6143</idno>
+            <idno type="STC">ESTC R222116</idno>
+            <idno type="EEBO-CITATION">99833345</idno>
+            <idno type="PROQUEST">99833345</idno>
+            <idno type="VID">37821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mulierum amicus: or, The womans friend plainly discovering all those diseases that are incident to that sex only, and advising them to cure, either 1. By those receipts prescribed. Or, 2. By certain secret arcanums and specifical medicines. The author hereof living at the sign of the Golden Ball and Flower-Pot in Mark-Lane in Tower-street, and is lycensiate in physick, and student in chymistry; known commonly by the name of Nich. Sudell.</title>
+                  <author>Sudell, Nicholas.</author>
+               </titleStmt>
+               <extent>[8], 104 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and is to be sold by J. Hancock in Popes-head-Alley in the year,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect; pages stained, with print show-through affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Diseases --  Early works to 1800.</term>
+               <term>Gynecology --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37821:1"/>
+            <p>
+               <hi>Mulierum Amicus:</hi> OR, The Womans Friend; Plainly diſcovering all thoſe Diſeaſes that are Incident to that Sex only, and adviſing them to cure, either 1. By thoſe Receipts preſcribed. OR, 2. By certain Secret <hi>Arcanums</hi> and Specifical Medicines.</p>
+            <p>The Author hereof Living at the Sign of the <hi>Golden Ball</hi> and <hi>Flower-Pot</hi> in <hi>Mark-Lane</hi> in <hi>Tower-Street,</hi> and is Lycenſiate in Phyſick, and Student in Chymiſtry; known commonly by the Name of <hi>Nich. Sudell.</hi>
+            </p>
+            <p>Printed for the Author, and is to be ſold by <hi>J. Hancock</hi> in <hi>Popes-head</hi>-Alley, in the Year 1666.</p>
+            <pb facs="tcp:37821:2"/>
+            <pb facs="tcp:37821:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37821:3"/>
+            <head>Courteous Reader.</head>
+            <p>BE thou man or woman, thou muſt know that to further the knowledge and underſtanding, and to ſupply with medicines for diſeaſes, thoſe that know not what I have writ, nor were capaſi<g ref="char:EOLhyphen"/>tated to do as now by this they may; are the Per<g ref="char:EOLhyphen"/>ſons whom in ſpecial I intended it for. And there<g ref="char:EOLhyphen"/>fore if thy attainment be ſo high, and thy ability reach ſo far as this directeth to, thou art not the perſon for whom this pains is taken; yet in ſome reſpect it may not be unprofitable nor unſervice<g ref="char:EOLhyphen"/>able unto thee, though I muſt confeſs to o<g ref="char:EOLhyphen"/>thers more, to whom I commend it, and adviſe them to conſider what they read in order to pra<g ref="char:EOLhyphen"/>ctice to themſelves and others, according as their wiſdom ſhall think fit. And I intreat all not to condemn, diſdain, or enviouſly to quarrel with this little Book, the end of which its coming in<g ref="char:EOLhyphen"/>to the world, whatſoever the work may be, was to do good.</p>
+            <closer>
+               <salute>Farewell, and love your Friend,</salute>
+               <signed>N. S.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37821:3"/>
+            <head>
+               <hi>To the truly Vertuous, and moſt accom<g ref="char:EOLhyphen"/>pliſhed Lady, The Lady</hi> Bloodworth; <hi>Wife to the Right Honourable Sir</hi> Thomas Blood<g ref="char:EOLhyphen"/>worth <hi>Lord Mayor of the City of</hi> London.</head>
+            <head type="sub">TOGETHER, With the Noble Ladies and Gentlemomen, Wives to the Right Worſhipful Knights and Gentlemen, the Sheriffs, Aldermen, and Common Counſel, and to either of them, the Author hereof wiſheth happi<g ref="char:EOLhyphen"/>neſs and well-being, here and hereafter.</head>
+            <opener>
+               <salute>Moſt Noble Ladies and Gentlewomen.</salute>
+            </opener>
+            <p>
+               <hi>SOlomon</hi> the wiſeſt of men, tells us, there is a time for every purpoſe. That this is a fit time for my purpoſe is unqueſtionable to me, the ſeaſon calling for doing good; and according as my ſtation is, I would be found improving my talent.</p>
+            <p>But poſſibly, my being a ſtranger, though not to all, yet to the moſt of you, may cauſe ſome admirati<g ref="char:EOLhyphen"/>on of this my Dedication; but before you judge me in this caſe, I beſeech you peruſe theſe enſuing lines that I preſent you with, and then, if my crime be be<g ref="char:EOLhyphen"/>yond your clemency to pardon, I muſt ſubmit to your cenſures; but if not, paſſing over my preſumption and failings, I hope this my firſt endeavours in this nature will be favoured with your good-will, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:37821:4"/>and acceptation; beſides, my Ladies and Gentlewo<g ref="char:EOLhyphen"/>men, there is a four-fold conſideration which em<g ref="char:EOLhyphen"/>holdned me to offer this my ſingle Quiller unto your protection and acceptation.</p>
+            <p n="1">
+               <hi>1.</hi> By reaſon of the weakneſs of the Author. Though the matter herein be of weight and concern<g ref="char:EOLhyphen"/>ment, and I doubt not but will be to the ſervice and advantage of many; but my ſelf being of no great name in the world, never endeavouring it, poſsibly though the book were never ſo profitable might not be ſo eſteemed: That therefore it may be of more gene<g ref="char:EOLhyphen"/>ral ſervice, and be prized as it deſerves, I took the boldneſs to put your names at the front hereof, know<g ref="char:EOLhyphen"/>ing that thoſe gardens, flowers or Galleries, that you delight to gather and walk in, is enough to oblige and encourage others, and that your generoſity, in<g ref="char:EOLhyphen"/>genuity and authority will add a luſter to theſe my mean labours and endeavours; neither let any despiſe nor undervalue theſe lines, becauſe of my acknowledg<g ref="char:EOLhyphen"/>ment of my own weakneſs, conſidering that he that is wiſe in his own conceit, there is more hope of a fool than him, and the way to be wiſe is to become a fool; but let them read before they judg, &amp; I dare warrant, without it be of them who know more, to whom this is not intended, neither my ſelf for writing, nor you Ladies for accepting ſhall receive any thing, ſave thanks and respect.</p>
+            <p n="2">
+               <hi>2.</hi> In regard of the fitneſs of your Perſons, for in<g ref="char:EOLhyphen"/>deed works of this nature, are not fit to be preſented to all perſons, though of your own ſex, unleſs there be that
+<pb facs="tcp:37821:4"/>ſobriety, and thoſe qualifications that ſuch a work of ſuch a nature doth require. The Proverb is, <hi>It is not good to caſt Pearl before Swine.</hi> There is many a choice Pearl in this little book; and that they might come or be caſt before ſuch as know what Pearl is, and the vertues and uſe thereof, I were am<g ref="char:EOLhyphen"/>bitious to lay it before you, not queſtioning or doubt<g ref="char:EOLhyphen"/>ing of thoſe choice and enriched endowments as are ſuitable to ſuch a ſubject, and thereby will become profitable and advantagious unto you, which brings me to the third thing, and that is</p>
+            <p n="3">
+               <hi>3.</hi> To further your knowledge (a things doubtleſs deſired amongst you) that thoſe things which you underſtand and ſee not (through the Pride and Ma<g ref="char:EOLhyphen"/>lice of men) you may apprehend and perceive,
+<list>
+                  <item>
+                     <hi>1.</hi> What you are.</item>
+                  <item>
+                     <hi>2.</hi> What liable unto. And</item>
+                  <item>
+                     <hi>3.</hi> What aſſiſtance you have.</item>
+               </list>
+            </p>
+            <p n="1">
+               <hi>1.</hi> That you may the better apprehend and per<g ref="char:EOLhyphen"/>ceive what you are; that is, how you ſtand diſtinct from man, and that in the one particular in special, the womb, I have ſhewed you what it is, to what end created, the figure of it, the form of it, the nouriſh<g ref="char:EOLhyphen"/>ment of it, and the ſupporters of it, and no more may be expected from me here, not intending anatomical lectures, or endeavouring after that which, as a good man ſaith, is too wonderful for me.</p>
+            <p n="2">
+               <hi>2.</hi> What you are liable unto; for although the womb be a gallant piece curiouſly wrought by the beſt of workmen (if I may ſo ſay with reverence) yet it is
+<pb facs="tcp:37821:5"/>ſubject to innumerable company of diſeaſes and ca<g ref="char:EOLhyphen"/>lamities, which I have endeavoured to unfold unto you by dividing it into three parts, giving you the diſeaſes that are incident to either, in the eaſieſt and plaineſt method I can. And then.</p>
+            <p n="3">
+               <hi>3.</hi> That you may perceive what aſsiſtance you have; for as I have told you the womb is ſubject to very many infirmities, ſo there are very many ſupplies and remedies, God having provided in his love in that caſe, as well as laid puniſhment to ſhew his ju<g ref="char:EOLhyphen"/>ſtice in the other; and that which hath moſt trou<g ref="char:EOLhyphen"/>bled me, is, that many good women have ſuffered in many diſtempers, though things by or eaſie to be had, by reaſon of their being ignorant of the vertues of them, might have been made and given either by themſelves, or ſome good Gentlewoman their neigh<g ref="char:EOLhyphen"/>bour, and been relieved. Now in this you will find to every diſeaſe, a certain receipt or medicine for the ſame, with directions concerning it, and they none of the meaneſt; ſo that you may plainly apprehend that you have a plentiful ſupply in all caſes, though notwithſtanding poſsibly in ſome caſes, and to ſome perſons, the medicines there directed to, may not al<g ref="char:EOLhyphen"/>ways cure; yet in that caſe I leave you not deſtitute, having mentioned ſeveral ſecret <hi>Arcanums</hi> and specifical medicines in my hands in order, by Gods bleſsing, to cure the moſt inveterate diſeaſes which probably might have been alſo communicated, only chymical operation is required in moſt of them.</p>
+            <p n="4">
+               <hi>4.</hi> To further your ability to do. Only to know is
+<pb facs="tcp:37821:5"/>not ſo commendable nor ſo ſufficient as to do, alſo in order thereunto I humbly offer you ſupplies to help you.
+<list>
+                  <item>
+                     <hi>1.</hi> To compound medicines.</item>
+                  <item>
+                     <hi>2.</hi> To direct medicines.</item>
+                  <item>
+                     <hi>3.</hi> So ſupply others with medicines.</item>
+               </list>
+            </p>
+            <p n="1">
+               <hi>1.</hi> In order to help you in the compoſition of me<g ref="char:EOLhyphen"/>dicines. I do not only tell you ſuch a Mineral, ſuch a Vegetable, ſuch an Animal, is good for ſuch and ſuch a diſeaſe, but I diſcover unto you how they muſt be ordered, compounded or mixed, and with what and when, as alſo the ſeveral quantities both of the one and the other, that ſo the medicine may not be de<g ref="char:EOLhyphen"/>fective, but compleat to all intents and purpoſes, whereunto a medicine is applyed or adminiſtred.</p>
+            <p n="2">
+               <hi>2.</hi> In order to help you to a direct medicine. It would be little or no advantage, especially in ſome particular medicines, for you to underſtand the ma<g ref="char:EOLhyphen"/>king of ſuch and ſuch a good medicine, if withall you were not able to give directions as to the taking of the ſame; as what doſe muſt be given, what time it muſt be given, and how it muſt vary, at what time, in what diſeaſe, or to what perſon, with the obſerva<g ref="char:EOLhyphen"/>tions that ought to be both before and after the take<g ref="char:EOLhyphen"/>ing thereof; therefore in this regard alſo I have not been wanting, but have annexed to the receipts, what ought in order to their taking be obſerved or taken notice of.</p>
+            <p n="3">
+               <hi>3.</hi> In order to ſupply others with medicines, be<g ref="char:EOLhyphen"/>ſides the delight that moſt Ladies and Gentlewomen have in looking into Phyſick and medicines. I doubt
+<pb facs="tcp:37821:6"/>not but alſo charity is as a ſpur unto many, that ſo they may not do ſomething to pleaſe their ſenſes only, and in ſome meaſure ſerve themſelves, but to to help and redreſs the griefs and maladies of their poor neighbours, which are not able to help them<g ref="char:EOLhyphen"/>ſelves other ways. Thoſe noble ſpirits may here be further furniſhed in order to ſuch a good work, which to provoke unto, if my ſmall mite ſhall be found con<g ref="char:EOLhyphen"/>cerned, and they receive good thereby, I ſhould be glad and rejoyce.</p>
+            <p>Thus courteous Ladies and Gentlewomen, I have in a plain ſtile, without Eloquence or Complement, (that not becoming ſuch a work) Apologized unto you &amp; it is all I ſhall ſay in the caſe at this time; only I beſeech you to pardon me in reſpect to the ſubject, being neceſſary &amp; weighty; inrespect to the method, being eaſie, though plain; in respect of the language, being as ſober as the caſe would allow; in respect of the brevity, being full, though ſhort in ſome particu<g ref="char:EOLhyphen"/>lars; and to accept of the pains of him, who as now in this caſe, ſo at all times, and in all caſes, is ready to aſsiſt and ſerve you. In teſtimony of which, I ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf</p>
+            <closer>
+               <signed>Your humble Servant and ready helper in time of need, <hi>N.</hi> S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37821:6"/>
+            <head>WOMENS DISEASES DISCOVERED, AND Their CURE offered.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD was wonderful in the Creation, but moſt wonder<g ref="char:EOLhyphen"/>ful in the Creation of Man, and out of him Woman; Man being the moſt curious piece, and woman no way inferiour, in that being made compleat like unto man, ſave only with ſome difference in both, reſpecting generation; which parts in women, as they are diſtinct and peculiar, ſo they are accompanied with diſtinct and peculiar diſeaſes, of which I treat.</p>
+            <p>And thoſe are called womens diſcaſes, which come from the defect of that part diſtinct from men, <hi>viz.</hi> the Womb the Mo<g ref="char:EOLhyphen"/>ther or Matrix, which was appointed by God to be the field of Nature, to receive the ſeed of man and woman, for the procreati<g ref="char:EOLhyphen"/>on and continuation of mankind; the parts
+<pb n="2" facs="tcp:37821:7"/>of it are two, <hi>Os uteri,</hi> the mouth; and <hi>fundus,</hi> the bottom of the womb.</p>
+            <p>In figure it's like a pear or Cupping-glaſs, having no diſtinct cell, as the womb of beaſts have: It is framed of two membrances; the external ſpringeth from the <hi>Perisonleum;</hi> the internal is full of ſmall holes, where the womb covers the <hi>Inteſtinum rectum,</hi> and by thoſe ſmall holes the courſe or menſtrual blood iſſueth.</p>
+            <p>For no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiſhment, it hath both veins and arteries ſpringing from the <hi>Vaſa preparantia ramus hypogaſtricus,</hi> and from <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gaſtricae.</hi> The ſinews appertaining to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the ſixth conjugation, and are ſmall.</p>
+            <p>It hath alſo four Ligaments, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> above, and two below; the two uppermoſt are looſe and ſoft, that they might admit dilatation with the womb when a woman is with child, or conſtriction when ſhe is not.</p>
+            <p>The two lowermoſt are nervious, round and hollow, and go down to the groyn, by the production of the <hi>Peritonceum,</hi> fortified by the <hi>Glandules,</hi> and this cauſeth that pain that women ſometimes feel after conception in the inſide of the thigh. And by theſe veſ<g ref="char:EOLhyphen"/>ſels, arteries, veins and nerves, the womb hath conſent with all the reſt of the body, occaſioning, as <hi>Democr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us</hi> to <hi>Hippocrates</hi> by letter ſignifies, ſix hundred miſeries, and
+<pb n="3" facs="tcp:37821:7"/>innumerable calamities, of which we ſhall briefly treat, paſſing what might be ſaid concerning the adjuncts, <hi>viz. Cunnu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; Te<g ref="char:EOLhyphen"/>ſticles,</hi> or ſtones of women; they having ſuch things as well as men, only differing in ſitu<g ref="char:EOLhyphen"/>ation, quantity, frame, ſubſtance, tempera<g ref="char:EOLhyphen"/>ture, <hi>&amp;c.</hi> Having therefore given you a de<g ref="char:EOLhyphen"/>finition of the womb, I know it is needleſs to tell you the place or ſituation of it, all knowing that: I come now to ſpeak of its diſeaſes and cures.</p>
+            <p>Obſerve therefore with me, a threefold diviſion of the womb, <hi>viz.</hi>
+            </p>
+            <p>The
+<list>
+                  <item>Veſſels.</item>
+                  <item>Body of the womb or cavity.</item>
+                  <item>Parts ſerving for the nobleſt act of generation.</item>
+               </list>
+            </p>
+            <p>Each of theſe three have their ſeveral diſ<g ref="char:EOLhyphen"/>eaſes.</p>
+            <p>Firſt, From the diſtemper of the veſſels of the womb, and the preternatural cauſes.</p>
+            <p>Come,
+<list>
+                  <item>1. <hi>Chloroſis,</hi> or Green-ſickneſs.</item>
+                  <item>2. Stoppage of the Courſes.</item>
+                  <item>3. Immoderateneſs thereof.</item>
+                  <item>4. The Whites.</item>
+                  <item>5. Rage or madneſs of the womb.</item>
+                  <item>6. The Mother fits.</item>
+               </list>
+            </p>
+            <p>Secondly, In the body or cavity of the Womb are,
+<pb n="4" facs="tcp:37821:8"/>
+               <list>
+                  <item>1. Inflamations.</item>
+                  <item>2. Ulcers.</item>
+                  <item>3. <hi>Scyrrhus.</hi>
+                  </item>
+                  <item>4. Cancer.</item>
+                  <item>5. Gangrene.</item>
+                  <item>6. Dropſie.</item>
+                  <item>7. Falling down.</item>
+                  <item>8. Shutting up thereof.</item>
+               </list>
+            </p>
+            <p>Theſe hindring generation but by accident.</p>
+            <p>Thirdly, The diſeaſes which are, in re<g ref="char:EOLhyphen"/>ſpect of conception, generation, breeding and bringing forth, are,
+<list>
+                  <item>1. Barrenneſs.</item>
+                  <item>2. Acute and chronical diſeaſes of wo<g ref="char:EOLhyphen"/>men with child.</item>
+                  <item>3. Abortion or miſcarriage.</item>
+                  <item>4. Difficult bringing forth.</item>
+                  <item>5. A dead child.</item>
+                  <item>6. <hi>Secundine,</hi> or after-birth retained.</item>
+                  <item>7. Immoderate flux-blood.</item>
+                  <item>8. Suppreſſion of blood.</item>
+                  <item>9. Acute diſeaſes of women in child<g ref="char:EOLhyphen"/>bed.</item>
+               </list>
+            </p>
+            <p>Of all which in order, and as plain and brief as may be, only I muſt premiſe three things; Firſt, that you may not expect to have me ſo large as to give you an account of theſe diſeaſes in a general way, as their differences, cauſes, ſignes, prognoſticks, <hi>&amp;c.</hi> only the definition of the diſeaſe, the ſignes
+<pb n="5" facs="tcp:37821:8"/>and cures thereof, and that the moſt princi<g ref="char:EOLhyphen"/>pal, thereby informing your judgements, as to do your ſelves right, which is the end of my writing.</p>
+            <p>Secondly, That you may not expect this Book to be ſtuffed with multiplicity of re<g ref="char:EOLhyphen"/>ceipts or needleſs medicines, but the princi<g ref="char:EOLhyphen"/>pal of the <hi>Galenical</hi> Art, ſo far as Authors make manifeſt, and I have proved.</p>
+            <p>Thirdly, Neither may you expect theſe <hi>Arcanums</hi> &amp; ſpecifical medicines ſpake of, to be at this time made manifeſt or publick, having reaſons ſufficient to the contrary; beſides, that many of them are Chymical preparations, and none of them made with<g ref="char:EOLhyphen"/>out fire, and the help of Chymical utenſils or veſſels, but ſhall reſerve them as yet to my ſelf, only alwayes ready, either to give or ſell ſuch quantities, and at ſuch prizes as the perſons may be capable to give, and the me<g ref="char:EOLhyphen"/>dicines deſerve: And indeed, they are very cheap conſidering their efficacy; which things I was more than ordinary concerned to ſtudy, being my medicines hitherto, though acknowledged to be very excellent &amp; choice, yet complained of by ſome for their dearneſs; which although I have now en<g ref="char:EOLhyphen"/>deavoured to remedy, yet not ſo far as to detract from the worth of the things.</p>
+            <pb n="6" facs="tcp:37821:9"/>
+            <p> Theſe perſons complaining, not conſider<g ref="char:EOLhyphen"/>ing the great charge, trouble, excellency and worth of Chymical preparations above o<g ref="char:EOLhyphen"/>thers, but thinking hard of giving four, ſix, or ten ſhillings for a ſmall bottle of ſome Spirit, <hi>Tinct, Elixar,</hi> or other medicine, not examining who is the greateſt gainer, whe<g ref="char:EOLhyphen"/>ther they that furniſh them poſſibly with three, four, five, perhaps ſix quarts for the ſame money, or we, they only making it by decoction, <hi>&amp;c.</hi> we by calcination, ſublima<g ref="char:EOLhyphen"/>tion, liquation, ſalification, precipitation, pu<g ref="char:EOLhyphen"/>rification, ſo ſeparating the pure from the impure, adminiſtring only the moſt pure part of any Mineral, Animal, or Vegetable, they both together; yea, not only ſo, but the beſt many times loſt by their way of com<g ref="char:EOLhyphen"/>pounding; or if not ſo, yet the body of the thing being not opened according to Chymi<g ref="char:EOLhyphen"/>cal Art, doth not operate effectually. But of this no more here.</p>
+            <p>Having thus premiſed, I come now to the buſineſs it ſelf, and I begin with theſe diſtem<g ref="char:EOLhyphen"/>pers of the veſſels of the womb; and the firſt is, <hi>Chloroſis</hi> or Green-ſickneſs; and according to promiſe, I ſhall obſerve this method, <hi>viz.</hi>
+               <list>
+                  <item>1. To give you the definition of the diſ<g ref="char:EOLhyphen"/>caſe, or tell you briefly what it is.</item>
+                  <item>2. To give you the moſt principal com<g ref="char:EOLhyphen"/>mon ſignes of ſuch and ſuch diſeaſes, thereby
+<pb n="7" facs="tcp:37821:9"/>helping your judgments that you may look for Cure.</item>
+                  <item>3. To give you ſome choice and notable Receipts, in order to Cure that diſeaſe you find your ſelf to lie under, or are creeping into.</item>
+               </list>
+            </p>
+            <p>In all of which, God direct my Pen in wri<g ref="char:EOLhyphen"/>ting, and cauſe you to be humble and ſober in reading.</p>
+            <p n="1">1. Then the <hi>Chloroſis</hi> or Green-ſickneſs; it is alſo called the White feaver, the Virgins diſeaſe, the white Jaundies, <hi>&amp;c.</hi> and may be defined thus.</p>
+            <p>An evil habit of body from the obſtructi<g ref="char:EOLhyphen"/>ons of the Veins, of the Liver, Spleen, Me<g ref="char:EOLhyphen"/>ſentery, and eſpecially the womb, whereby the whole paſſage of blood is hindred, which abounding in Virgins when they begin to have their Courſes, and being hindred by its natural courſe, by thoſe obſtructions, turns to the upper parts and oppreſſeth the Heart, Liver, Spleen, Midriff, and other parts; de<g ref="char:EOLhyphen"/>ſtroying natural heat, and bringing evil con<g ref="char:EOLhyphen"/>coction in the bowels; and is known by theſe ſigns following.
+<list>
+                  <item>1. The face and all the body is pale and white, and ſometimes of a lead colour, blew and green.</item>
+                  <item>2. Swelling face and Eye-lids, eſpecially after ſleep, the legs alſo ſoft and looſe, eſpe<g ref="char:EOLhyphen"/>cially about the Ancles.</item>
+                  <pb n="8" facs="tcp:37821:10"/>
+                  <item>3. Heavineſs and idleneſs in the whole body.</item>
+                  <item>4. Difficult breathing, eſpecially when they move themſelves, or go up a hill or ſtairs.</item>
+                  <item>5. Palpitation of the heart, and beating of the Arteries of the Temples.</item>
+                  <item>6. Often great Head ach, ſometimes be<g ref="char:EOLhyphen"/>fore, and ſometimes behind, according as from whence vapors aſcend.</item>
+                  <item>7. For the moſt part a ſwift Pulſe.</item>
+                  <item>8. Sleep very ſound, ſometimes till noon.</item>
+                  <item>9. Loathing wholſome Meat, covering that which is not convenient to be eaten.</item>
+                  <item>10. Stoppage of the monthly Courſes, which ſhews the diſeaſe to be at the height.</item>
+               </list>
+            </p>
+            <p>Now to help you in the Cure of this diſ<g ref="char:EOLhyphen"/>caſe, conſider it lieth in three things chiefly, <hi>viz.</hi> In opening obſtructions, in correcting the diſtemper of the bowels, and in ſtrength<g ref="char:EOLhyphen"/>ning the ſame, which to do I adviſe you to uſe theſe enſuing medicines.</p>
+            <p n="1">1. Give this Purge in a morning, with thoſe common obſervations which are uſed in taking Phyſick. Take Roſin of Jalap ten grains, <hi>Diacatholicon</hi> and Conſerve of red Roſes, of each half an ounce; <hi>Crem. Tartar</hi> twenty grains, Salt of <hi>Mugwort</hi> four grains: mix them altogether, and give this <hi>Bolus</hi> up<g ref="char:EOLhyphen"/>on the point of a knife, <hi>&amp;c.</hi>
+            </p>
+            <pb n="9" facs="tcp:37821:10"/>
+            <p> The next thing is Bleeding, and concer<g ref="char:EOLhyphen"/>ning the place, obſerve this: That if the bo<g ref="char:EOLhyphen"/>dy abound with groſs and evil humors, you then take the arm firſt; if not, the foot; on<g ref="char:EOLhyphen"/>ly remember, that when the lower veins are opened, it be done toward the full of the Moon, when the Courſes uſe to come down: or if they have not yet appeared, when the party is moſt afflicted.</p>
+            <p>Soon after her bleeding make this medi<g ref="char:EOLhyphen"/>cine, and adminiſter it every morning the firſt thing, cauſing her to exerciſe after it for ſeveral mornings together, the quantity of three ounces, forbearing meat or drink for two or three hours; the medicine is this.</p>
+            <p>Take of the filings of Steel four ounces, <hi>Eryngo</hi> roots, and <hi>Elicampane,</hi> of each one ounce and half, flowers of <hi>Broom, Roſemary, Betony</hi> and <hi>Epithimum,</hi> of each half a hand<g ref="char:EOLhyphen"/>ful, red <hi>Coral,</hi> and ſhavings of <hi>Ivory,</hi> of each ſix drams, <hi>Cloves, Nutmegs, Cinnamons, Saffron,</hi> of each two drams, <hi>White wine</hi> ſix pints; Steep theſe things, being bruiſed or beaten, in the wine for eight days, keeping it cloſe ſtopt and in a gentle heat in hot water or embers; then ſtrain it, and uſe it as aforeſaid.</p>
+            <p>And in the mean time ſupply her with Conſerve of <hi>Mugwort,</hi> the quantity of one ounce once a day, before Supper with ſix grains of <hi>Crem, Tartar;</hi> and by Gods bleſ<g ref="char:EOLhyphen"/>ſing
+<pb n="10" facs="tcp:37821:11"/>the Cure will be performed; but if not, then we muſt come higher, to Diuretical and Diaphoretical medicines, which never fail: Such of which I am alwayes provided with, for the good and benefit of all; which <hi>Ar<g ref="char:EOLhyphen"/>canums</hi> and Specifical, medicines are not at this time to be made publick, no not to the Sons of Art.</p>
+            <p>And ſo I conclude my diſcourſe concern<g ref="char:EOLhyphen"/>ing the Green ſickneſs; only my advice further is, that the Parents of ſuch perſons as have this diſeaſe, or others who are concer<g ref="char:EOLhyphen"/>ned, would prudently and timely provide marriage for them; much of the Cure of this diſeaſe lying in Carnal Copulation, as experience hath and doth teach every day more or leſs, the veſſels of the womb becom<g ref="char:EOLhyphen"/>ing thereby much enlarged, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Stoppage of the Terms or Courſes.</p>
+            <p>The terms are ſaid to be ſtopped, when in a woman ripe of Age, which gives not Suck, and is not with Child, there is ſeldom ſmall or no evacuation of blood by the womb, which uſeth to be every moneth.</p>
+            <p>Signs are manifeſt; but becauſe it comes either from natural or preternatural cauſes, I ſhall lay down ſome diſtinguiſhing ſigns, whereby you may diſcern whether they ſtay, from being with Child yea or no, or from ſome other preternatural cauſe; and herein
+<pb n="11" facs="tcp:37821:11"/>I ſhall be ſerviceable to all good women that ſhall well mind, and ſeriouſly conſider what I write.</p>
+            <p n="1">1. If the Courſes ſtop by Conception or being with Child, there is retained cominon<g ref="char:EOLhyphen"/>ly the natural complexion; but others uſu<g ref="char:EOLhyphen"/>ally are pale and ill-coloured.</p>
+            <p n="2">2. The Symptoms which women with Child have at the firſt, do daily decreaſe; but in other ſtoppage of the terais, by how much the longer the terms ſtop, by ſo much the more the Symptoms increaſe: mark it.</p>
+            <p n="3">3. In women with Child, after the third or fourth moneth, there may be perceived the ſituation and motion of the Infant, by laying a warm hand upon the inferior belly; in others there is a tumor to befelt; but it is flegmatick, not hard, neither is it proportio<g ref="char:EOLhyphen"/>nable to the womb.</p>
+            <p n="4">4. If a wiſe and ingenious Midwife touch the inward mouth of the womb, it will not be ſo cloſe ſhut as it is in women with Child, but rather hard contracted and full of pain.</p>
+            <p n="5">5. Women with Child are commonly merry and little diſturbed; but when terms are otherwiſe ſtopped, they are ſad and for<g ref="char:EOLhyphen"/>rowful.</p>
+            <p>Cure, Suppoſing the ſuppreſſion of the the Courſes by obſtructions of the veins of the womb.</p>
+            <pb n="12" facs="tcp:37821:12"/>
+            <p> You may begin the Cure with Blood-let<g ref="char:EOLhyphen"/>ting, if it do plainly offend either in quality or quantity; only be adviſed where and when.</p>
+            <p>Then proceed to the uſe of theſe things one after another, which are preſcribed for the Cure of the Green-ſickneſs; but if their diſeaſe be ſo rebellious as not to give way to the former Remedies, my advice then is, that you Purge with this following.</p>
+            <p>Take <hi>Pil. Arabica.</hi> which the Apothecary will help you to, two ſcruples, and of Oil of Amber four drops mixed with it; be in your Chamber that day, and drinking Poſſet, as is ordinary in taking Phyſick.</p>
+            <p>Two or three days after make this medi<g ref="char:EOLhyphen"/>cine following, of which give four ounces every morning the firſt thing, and every night the laſt thing, <hi>viz.</hi> Take <hi>Gromwell ſeed, Aniſeed, Miſſelto</hi> of the Oak, of each ſix drams, <hi>Ditany</hi> of <hi>Creet</hi> and <hi>Cammomil</hi> flowers, of each two drams, <hi>Saffron</hi> and <hi>Cinnamon</hi> of each one dram; beat what is to be beaten, and ſteep all night in two quarts of good white wine; in the morning boil it a little, keep<g ref="char:EOLhyphen"/>ing it cloſe cover'd, then ſtrain it and uſe it, begging Gods bleſſing, obtaining which un<g ref="char:EOLhyphen"/>doubtedly it will anſwer expectations. All theſe being principal receipts amongſt the Galenical tribe. But if theſe do not produce
+<pb n="13" facs="tcp:37821:12"/>ſuch effect as may be and is expected, deſpair not; for there is yet other things in our hands which is out of your reach, being Chymical preparations, that will undoubtedly reach and anſwer all intentions, deſires and purpo<g ref="char:EOLhyphen"/>ſes, the bleſſing of God concurring. And let not others through their Pride and Cove<g ref="char:EOLhyphen"/>touſneſs, nor your ſelf, by your ignorance and wilfulneſs upon any account, be kept from uſing thoſe things that the God of all grace hath provided for you; for a though ſlanderouſly by a vailed generation of men, Chymical medicines are accounted and re<g ref="char:EOLhyphen"/>ported dangerous, which is the great Bug<g ref="char:EOLhyphen"/>bear, with which they would fright people, that ſo they might keep up their babble; I do affirm, I am willing at any time to juſtifie, God bearing me witneſs, that I never made or prepared a Chymical medicine in my life, neither ſhall I, but what hath been, and may ſafely, and without the leaſt danger, be given unto little Children. And ſo I come</p>
+            <p n="3">3. To the Immoderate flux of the Cour<g ref="char:EOLhyphen"/>ſes, a diſeaſe which is not without detriment to many good women.</p>
+            <p>Womens monethly Courſes being mode<g ref="char:EOLhyphen"/>rate in quantity, and flowing in due ſeaſon, are natural; but if they exceed in quantity or come too often, or ſtay too long, they are to be accounted immoderate, and beſides the intent of nature, <hi>&amp;c.</hi>
+            </p>
+            <pb n="14" facs="tcp:37821:13"/>
+            <p> Signs are manifeſt by the definition, how<g ref="char:EOLhyphen"/>ever its known by
+<list>
+                  <item>1. Ill bearing of the Patient.</item>
+                  <item>2. Decay of ſtrength.</item>
+                  <item>3. Want of appetite to meat.</item>
+                  <item>4. Indigeſtion of humors.</item>
+                  <item>5. Ill habit of body.</item>
+                  <item>6. Colour of the face like a dead Corps.</item>
+                  <item>7. Swelling of the legs, and other moſt grievous maladies cauſed by decay of na<g ref="char:EOLhyphen"/>tural heat.</item>
+               </list>
+            </p>
+            <p>Cure. It muſt begin by blood-letting in the arm, not all at once, but by degrees, and ſo ſhe muſt bleed plentifully as much as her ſtrength can bear.</p>
+            <p>And if the Patient can bear the ſame, a Vomit will be convenient, eſpecially, if the party be prone or apt to vomit: which may be done with warm water a pint, and Syrup of Squiles two ounces, tickling the throat immediately after with a feather. After which let this following medicine be given every morning, and every night, the firſt and laſt thing.</p>
+            <p>Take the rind of four ſower Oranges, <hi>Biſtort</hi> and <hi>Tormentil,</hi> of each one ounce, the outward rind of the Mulberry-tree, two oun<g ref="char:EOLhyphen"/>ces, Plantain and Sheepherds Purſe of each a handful; ſlice and bruiſe thoſe things that require it, and boil for a full hour in ſix
+<pb n="15" facs="tcp:37821:13"/>pints of water; then ſtrain it, and adde Sy<g ref="char:EOLhyphen"/>rup of Quinces four ounces, the Doſe is half a pint as aforeſaid.</p>
+            <p>Outwardly apply a Plaiſter to the belly, ſpread upon leather, and bound on, of the ointment called <hi>
+                  <g ref="char:V">Ʋ</g>nguentum Comitiſſe,</hi> its to be had at the Apothecaries.</p>
+            <p>Let them drink Beer and Milk often wherein is quenched red hot Steel; and be<g ref="char:EOLhyphen"/>fore Diuner, for ſometime together, let them take old Conſerve of red Roſes one ounce, with one dram of the powder of Egg-ſhells, which ſaid things not often fail, ſometimes do; and then we muſt come to our higher <hi>Arcanums</hi> and ſpecifical medicines, with which I am provided, and have cured many, not only old in years, but old inveterate fluxes; to the praiſe of God I ſpeak it.</p>
+            <p>The next thing is the Whites.</p>
+            <p>A woman is ſaid to have the whites, the woman-flux, the flux of the womb, or the white menſtruals, when excrementitious hu<g ref="char:EOLhyphen"/>mors do flow from her womb either conti<g ref="char:EOLhyphen"/>nually, or at leaſt without any certain or<g ref="char:EOLhyphen"/>der or courſe of time obſerved in their flow<g ref="char:EOLhyphen"/>ing, being ſometimes white and flegmatick, ſometimes pale or yellow, ſometimes gree<g ref="char:EOLhyphen"/>niſh and wateriſh by the admixture of ſe<g ref="char:EOLhyphen"/>rous humors: Alſo this diſeaſe is wont for the moſt part to ſeize upon grown women,
+<pb n="16" facs="tcp:37821:14"/>and thoſe of riper years; yet are not Virgins all free from the ſame, ſo that ſome have done ill in affirming that ſuch Maids as are troubled with this diſeaſe have loſt their Virginity; my reaſon is this.</p>
+            <p>If Virgins have the veins of their wombs ſo large that their wonted courſes can flow through them; why may not the whites drop out of the ſame paſſages, ſeeing they are many times more thin and fluxive than the blood it ſelf, which is an experienced truth, and daily Practice teacheth as much, <hi>viz.</hi> That the moſt chaſt and perfect Vir<g ref="char:EOLhyphen"/>gins in the world have had this infirmity, <hi>&amp;c.</hi>
+            </p>
+            <p>Signs. The diſeaſe is eaſily known by the relation of the party, and is oftentimes attended with divers ſymptoms, <hi>&amp;c.</hi>
+            </p>
+            <list>
+               <item>1. Paleneſs of the face.</item>
+               <item>2. Want of appetite, ſometimes with fick<g ref="char:EOLhyphen"/>neſs of the ſtomach.</item>
+               <item>3. Short breathing and weakneſs.</item>
+               <item>4. Swelling of the Eyes.</item>
+               <item>5. Penſiveneſs and ſadneſs.</item>
+               <item>6. Several pains, as the Head, Heart, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p>Cure. Omitting Blood-letting in this caſe, the firſt thing is to cleanſe the body of the peccant humors; and therefore give this following Vomit in the firſt place, <hi>viz.</hi>
+            </p>
+            <p>Infuſion of <hi>Crocus Metallorum</hi> one ounce,
+<pb n="17" facs="tcp:37821:14"/>Syrup of Squils half an ounce, mixed, and give it in a morning faſting blood-warm give Poſſet, and keep warm after it, <hi>&amp;c.</hi> The next day ſave one take this Purge; Roſin of Jalap ten grains, <hi>Cinnamon</hi> in fine powder half a ſcruple, mix them and take it in a lit<g ref="char:EOLhyphen"/>tle Chicken broth, and drink of the broth af<g ref="char:EOLhyphen"/>terwards; take it in a morning.</p>
+            <p>After this, all thoſe things ſpoke of in the immoderate flux of the Courſes may be gi<g ref="char:EOLhyphen"/>ven; unto which I ſhall only adde a decocti<g ref="char:EOLhyphen"/>on made with <hi>Lig. vita, Saſſafras, China,</hi> and red Roſe-leaves, ſweetned with ſyrup of Coral, Quinces, or Spearmint, of which let her take daily half a pint for a moneth to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>But poſſible ſome good woman or other may judge my pains in this diſeaſe might have been ſpared, many having had it for many years without hurt or danger; to ſuch I would ſay, not without dammage: for though in one reſpect this diſeaſe may be called good, becauſe not attended with danger of Death; yet obſerve, it may be ac<g ref="char:EOLhyphen"/>counted bad, yea a very bad and ſtubborn diſeaſe, foraſmuch as the flux of evill hu<g ref="char:EOLhyphen"/>mors having once taken this courſe, is very hardly turned out of its channel, becauſe the womb is the draught of the whole body; ſo that if this infirmity get head, it may and
+<pb n="18" facs="tcp:37821:15"/>commonly doth bring many other Evils up<g ref="char:EOLhyphen"/>on the Patient, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. Barrenneſs.</item>
+               <item>2. Falling down of the womb.</item>
+               <item>3. Exulceration.</item>
+               <item>4. <hi>Cachexia,</hi> or evil habit of body.</item>
+               <item>5. Dropſie.</item>
+               <item>6. Conſumption, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p>And therefore having thoſe Evils attend<g ref="char:EOLhyphen"/>ing it, I think it concerns me to endeavour to remove it as other diſeaſes; to which pur<g ref="char:EOLhyphen"/>poſe, I have, as for the reſt, made proviſion of other things, if thoſe directed to ſhall fail. And ſo I paſs to the next, and that is</p>
+            <p>Rage or Madneſs from the Womb.</p>
+            <p>Womb-fery is a ſort of madneſs, ariſing from abundance of Seed, being Acrimonious and hot, tranſcending the bounds of Na<g ref="char:EOLhyphen"/>ture, thereby cauſing a vehement and un<g ref="char:EOLhyphen"/>bridled deſire of carnal imbracement; which deſire dethrones the rational faculty ſo far, that the Patient utters wanton and laſcivi<g ref="char:EOLhyphen"/>ous Speeches, <hi>&amp;c.</hi>
+            </p>
+            <p>Signs may eaſily be gathered by what is ſaid; but becauſe it is wont to diſcover it ſelf gradually by little and little, I ſhall briefly relate its progreſs; in the beginning, whilſt the party injoys their underſtanding, they are more ſad and ſilent than ordinary, but ſome<g ref="char:EOLhyphen"/>times with a wanton rowling eye and ruddy
+<pb n="19" facs="tcp:37821:15"/>countenance, eſpecially when mention is made of matters belonging to bodily luſt, for then both Breath and Pulſe changeth, which hath occaſioned ſometimes ſome whiſpers from me to compoſe themſelves, to ſome in<g ref="char:EOLhyphen"/>clinable to this infirmity. Afterwards, when the diſeaſe is exaſperated, they begin to ſcold, weep, and ever and anon to fall out laughing; they ſpeak many things without time and reaſon, out of which no certain ſign can be gathered: A while after they re<g ref="char:EOLhyphen"/>pent of their ſolly, until another fit take them by reaſon of the inordinate motion of the peccant matter, which obſerves no cer<g ref="char:EOLhyphen"/>tain period in its fermentation, <hi>&amp;c.</hi>
+            </p>
+            <p>Cure. The cure of this diſeaſe tends to cor<g ref="char:EOLhyphen"/>rect the hot diſtemper of the bowels, eſpeci<g ref="char:EOLhyphen"/>ally of the womb, and the blood, and ſeed; likewiſe to evacuate the ſharp humors, and ſeminal matter offending.</p>
+            <p>In order thereto let blood pretty plenty<g ref="char:EOLhyphen"/>fully, and reiterate the ſame if the perſon be plethorick or abounding with blood; then give this Purge.</p>
+            <p>Take of the Pill <hi>Lapis Lazuli</hi> half a dram, oyl of Amber mixed therewith four drops; make it into ſeveral Pills, and take them in a morning faſting, drinking Poſſet-drink af<g ref="char:EOLhyphen"/>ter it, according as uſually is done in taking Phyſick; give this twice a week for a mo<g ref="char:EOLhyphen"/>neth
+<pb n="20" facs="tcp:37821:16"/>together; and in the mean time let the party take of this following Electuary twice a day when ſhe takes no Pills, <hi>viz.</hi>
+            </p>
+            <p>Take Conſerve of the flowers of Water-Lillies, Violets, and <hi>Agnus Caſtus</hi> of each one ounce, Conſerve of Roſes and Lettice, of each two ounces, Coral prepared half an ounce, Syrup of Violets enough to make it into a body. Whey drunk often and plenti<g ref="char:EOLhyphen"/>fully is good in this diſeaſe, and Iſſues made in the thighs and legs. But in regard of the immediate cauſe, ſeeing the evacuation of the ſharp and corrupted ſeed may cure this di<g ref="char:EOLhyphen"/>ſeaſe; my further advice is, that at the be<g ref="char:EOLhyphen"/>ginning of the diſeaſe, before the Patient begins manifeſtly to rave, or in the ſpace between her fits, when ſhe is pretty well, to marry her; for ſo the womb being ſatisfied, and the offenſive matter contained in its Veſ<g ref="char:EOLhyphen"/>ſels being emptied, the Patient may perad<g ref="char:EOLhyphen"/>venture be cured: but if the party cannot ſo conveniently be married, or her condition bare not that eſtate, all lawful means muſt be uſed by rubbing or tickling by a skilful Midwife, that ſo an evacuation of the over abounding Sperm may be.—And if ſtill this diſeaſe continue, you may underſtand other things are to be done with expedition; and therefore as for others, ſo for this I am not with ſome ſecret <hi>Arcanums</hi> and Specifical
+<pb n="21" facs="tcp:37821:16"/>medicines tryed and experienced to ſeveral effectually, to my content as well as thoſe concerned, both in mony, Credit and Ho<g ref="char:EOLhyphen"/>nour, few reaching this diſeaſe but my ſelf as well as the other madneſs, which men alſo are liable to, <hi>&amp;c.</hi> But then next</p>
+            <p>Is the Mother-fits or Womb-ſickneſs.</p>
+            <p>When ſeed and menſtrual blood are re<g ref="char:EOLhyphen"/>tained in women, beſides the intent of na<g ref="char:EOLhyphen"/>ture, they putrifie, corrupt, and attain a ve<g ref="char:EOLhyphen"/>nomous quallity, from which, according to <hi>Galens</hi> Doctrine, vapours are elevated and carried to divers parts of the body, occaſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ning ſeveral Symptoms: the chief going un<g ref="char:EOLhyphen"/>der the name of Mother-fits, the womb ſometimes being elevated alſo. The ſigns ſuch as ſhew the diſeaſe approaching, and ſuch as ſhew the diſeaſe ſtrengthned. 1. Signs that ſhew the diſeaſe approaching are theſe:
+<list>
+                  <item>1. A noiſe in their lower belly.</item>
+                  <item>2. Belching, or inclination to Vomit.</item>
+                  <item>3. Wearineſſes, yawnings and ſtretchings.</item>
+                  <item>4. A ſad look, pale face.</item>
+               </list>
+            </p>
+            <p>Secondly, Signs of the diſeaſe ſtrengthned.</p>
+            <p n="1">1. A ſenſe of ſtrangling, as if they had ſwallowed a great morſel, and it ſtuck in their throat.</p>
+            <p n="2">2. Stoppage of breath, and ſuffocation increaſed.</p>
+            <p n="3">3. In concluſion, all their vital and ani<g ref="char:EOLhyphen"/>mal actions are deprived, diminiſhed, or a<g ref="char:EOLhyphen"/>b<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d.</p>
+            <p n="4">
+               <pb n="22" facs="tcp:37821:17"/> 4. And from hence ſprings Ravings, Convulſions, and other grievous ſymptoms; but this diſeaſe being pretty well known by almoſt every old woman, I ſhall ſay no more as to the ſigns; but come to the Cure, which is double.</p>
+            <list>
+               <item>1. In the Fit.</item>
+               <item>2. Out of the Fit.</item>
+            </list>
+            <p>Cure. In the fit, thoſe vapouts which cauſe it, are to be diſcuſſed and drawn back from the part affected, the humors contain<g ref="char:EOLhyphen"/>ed in the womb which ſend up theſe va<g ref="char:EOLhyphen"/>pours (it would be well if we knew which way) muſt be voided, and the womb, if re<g ref="char:EOLhyphen"/>moved out of its proper ſeat, reſtored to the ſame again.</p>
+            <p>In the fit therefore, let the lower parts be tyed hard and rubbed well, and let her ſmell to ſume made of burnt leather, brimſtone or feathers; alſo oil of Amber may be put a<g ref="char:EOLhyphen"/>bout her noſtrils, and three or four drops ta<g ref="char:EOLhyphen"/>ken inwardly, which is very excellent, eſpe<g ref="char:EOLhyphen"/>cially if you give it in Orange flower water.</p>
+            <p>Tobacco blown into the mouth or noſe is very good, or ſnuffe-Tobacco blown up into the noſtrils. And as theſe things muſt be applyed according as mentioned, ſo you muſt uſe Musk or Civer, and with a little Cotten put it into the Privities; for as the Iron followeth the loadſtone, ſo doth the
+<pb n="23" facs="tcp:37821:17"/>womb follow all ſweet and delightful ſmells, but ſhuns all odious ſcents.</p>
+            <p>You may alſo give her <hi>Aq. Hyſterica,</hi> Mo<g ref="char:EOLhyphen"/>ther or womb-water, two or three ſpoonfuls once in one hour; its to be had at every A<g ref="char:EOLhyphen"/>thecaries; and if with thoſe things it abate not, then give this Cliſter, and apply Cup<g ref="char:EOLhyphen"/>ping-glaſſes upon her hips, <hi>viz.</hi>
+            </p>
+            <p>Take of the herb Mercury, Pelitory-wall, Mugwort, Peniroyal and Rue, of each a ſmall handful; Caraway ſeeds, Cummine ſeeds, and Bayberries, of each two drams, boil all to a pint and an half, and in the ſtraining diſſolve <hi>Hiera Picra,</hi> and confect: <hi>Hamech</hi> of each four drams (they are both to be had at the Apothecaries) and ſo admi<g ref="char:EOLhyphen"/>niſter, remembring that it be retained ſome while, but not too long.</p>
+            <p>Secondly, when the fit is over, care muſt be taken to prevent the return thereof, which may be endeavoured by the enſuing things. Let her take once in fourteen days, ſeaſon of the year and condition of body not forbid<g ref="char:EOLhyphen"/>ding, half a dram <hi>Pil. Arabica,</hi> with three or four drops of oil of Juniper-berries mixed therewith, drinking Poſſet-drink and keep<g ref="char:EOLhyphen"/>ing warm that day. And in the mean time keep a Plaiſter upon the Navel made with <hi>Gum Galbanum,</hi> with two or three grains of Musk in a little wool or cotton in the mid<g ref="char:EOLhyphen"/>dle.</p>
+            <pb n="24" facs="tcp:37821:18"/>
+            <p> And let this following powder be taken frequently, one dram at a time made into a <hi>Bolus</hi> with ſyrup of Mugwort, <hi>viz.</hi> Take <hi>Gen<g ref="char:EOLhyphen"/>tian</hi> roots, white <hi>Ditany,</hi> and <hi>Tormentil,</hi> and round <hi>Birth-wort, Chimelion Thiſtle, Bayberries, Juniperberries, Coriander-ſeed,</hi> prepared, <hi>Aniſeed, maſtick, Bole-Armoniack, Terra ſigillata,</hi> of each two drams, bring them all to fine powder and mix them; then powder alſo of the beſt Saffron two ounces and put to it, and ſo take it as aforeſaid.</p>
+            <p>Note. That if the woman be with Child, you muſt have a care of giving things too venturouſly inwardly; but rather attempt the getting her out of the fit by your outward medicines, for fear of miſcarriage, and uſe the midleſt of thoſe ſtinking things external<g ref="char:EOLhyphen"/>ly alſo.</p>
+            <p>One thing more which I would not omit, that is, a beneficial word to thoſe who have husbands, and can have the ſame; that is, that as ſoon as the party is out of her Fit, to admit of carnal conjunction, and that eſpe<g ref="char:EOLhyphen"/>cially if the diſeaſe ſeem to come from re<g ref="char:EOLhyphen"/>tention of ſeed, which may be known, if the Patient be young, of ſanguine complexion, merry, chearful and ſpiritous, when in the hearing of any diſcourſe tending to luſt, diet high, and live eaſie, and having not had im<g ref="char:EOLhyphen"/>braces in that nature for ſome time, <hi>&amp;c.</hi>
+            </p>
+            <pb n="25" facs="tcp:37821:18"/>
+            <p> I have been the larger upon this diſeaſe, becauſe I know it is common and very trou<g ref="char:EOLhyphen"/>bleſome, and obnoxious and hard to be to<g ref="char:EOLhyphen"/>tally cured: And perhaps ſome who may be concerned therewith, have taken many more medicines than theſe, and that poſſible along time too, and yet never the better; to ſuch and all others I would ſay, that ſome<g ref="char:EOLhyphen"/>times and in ſome caſes, multiplicity of me<g ref="char:EOLhyphen"/>dicines rat her hinder than further cure; uſe theſe with prayer and thankſgiving accor<g ref="char:EOLhyphen"/>ding as you are directed, they being princi<g ref="char:EOLhyphen"/>pal and choice receipts, and where you have ſo done, if your deſires are not ſatisfied in or<g ref="char:EOLhyphen"/>der to help, you may know that God being rich in grace, and of great compaſſion to<g ref="char:EOLhyphen"/>wards his poor creatures, hath not left you deſtitute of further ſupply, by helping ſome perſons in ſuch an Art, as is capable to open the bodies of Minerals as well as Vegetals and Animals; and I do affirm, that this di<g ref="char:EOLhyphen"/>ſeaſe being of any ſtanding, is not totally to be cured by any other medicine but ſuch as the Mineral Kingdom afford, unto which moſt will ſubſcribe, and I have ſeveral times proved; in which reſpect ſhineth the effica<g ref="char:EOLhyphen"/>cy and worth of Chymical Preparations a<g ref="char:EOLhyphen"/>bove and beyond Galenical medicines. But that only by way of digreſſion.</p>
+            <p>Secondly, I come now to ſpeak of the di<g ref="char:EOLhyphen"/>ſeaſes
+<pb n="26" facs="tcp:37821:19"/>in the Cavity of the Womb, and in order I begin</p>
+            <p n="1">1. Of the Inflamation of the Womb.</p>
+            <p>Inflamation of the womb is a tumor or ſwelling in that part, or ſome part thereof, ſpringing from blood, that is ſhed into the ſubſtance thereof.</p>
+            <p>Signs. 1. Swelling heat and pain in the re<g ref="char:EOLhyphen"/>gion of the womb, with a continual feavour.</p>
+            <p n="2">2. Suppreſſion, or diminution of the courſes, and their paleneſs or yellowiſh colour, with pain in their coming forth.</p>
+            <p n="3">3. In the abſence of them certain ſtinking and rotten ſtuff ſweats through the veſſels of the womb, and bedews the water-gate; wherein if ſearch be made, there will ſoon be a diſcovery of the diſeaſe: For</p>
+            <p n="4">4. The inward mouth of the womb will be found to ſwell, to be drawn inward, and ſubject to pain, if touched, and the veins of the womb will appear red and inflamed.</p>
+            <p n="5">5. Heat and pain ſometimes in the Groin, Privities, Bladder, ſtrait gut, and Loins, according as ſometimes one, ſometimes another part of the womb is afflicted.</p>
+            <p>Cure. Cure conſiſteth in drawing back the courſe of the blood to the womb, and di<g ref="char:EOLhyphen"/>verting it another way; that which is therein muſt be reſolved, and if the ſwelling tend to ſupperation it is to be furthered.</p>
+            <pb n="27" facs="tcp:37821:19"/>
+            <p> A Gliſter being given, blood muſt be drawn from the arm, and repeated twice, thrice, or four times, according to the ſtrength of the Patient and greatneſs of the inflama<g ref="char:EOLhyphen"/>tion, you may alſo for revulſion ſake rub and tie the upper-parts. If the body ſeem to abound with evil humors, Purge with Ele<g ref="char:EOLhyphen"/>ctuary Lenitive, once taken every night.</p>
+            <p>Anoint outwardly with <hi>Galens</hi> cooling ointment and oil of Roſes, and uſe it as of<g ref="char:EOLhyphen"/>ten as is neceſſary. But becauſe this diſeaſe comes not often, and muſt be chiefly directed to as the eye ſeeth occaſion, I ſhall ſay no more, it being a very dangerous diſeaſe, and requires occular inſpection and manual ope<g ref="char:EOLhyphen"/>ration of the moſt ingenious Phyſician or Chirurgeon; in which ſad and dangerous di<g ref="char:EOLhyphen"/>ſeaſe as in others, I offer the beſt of my knowledge and skill; and ſometimes means is ſucceſſeful, if the inflamation come to ſu<g ref="char:EOLhyphen"/>peration; but then I have obſerved that uſu<g ref="char:EOLhyphen"/>ally Ulcers follow, and then they commonly pine away with a lingring Feaver, or fall in<g ref="char:EOLhyphen"/>to a Dropſie.</p>
+            <p>But Secondly, Ulcer of the womb.</p>
+            <p>Although there may be an Ulcer of the womb without an inflamation following thereof, as namely, from any thing than may cauſe an eroſion, fretting or gnawing the ſubſtance thereof, yet after a ſuperared
+<pb n="28" facs="tcp:37821:20"/>inflamation of the womb uſually follows Ulcers, and the ſigns thereof are theſe.</p>
+            <p>Signs. 1. Pain, or biting in the womb or its neck.</p>
+            <p n="2">2. Voiding of ſnotty matter or quitter out of the womb.</p>
+            <p n="3">3. If the neck of the womb be the place afflicted, then it is to be known by the par<g ref="char:EOLhyphen"/>ties hand, the Midwives finger, or genial embracements, in which there will be trou<g ref="char:EOLhyphen"/>bleſome pain.</p>
+            <p n="4">4. If the bottom of the womb have an Ul<g ref="char:EOLhyphen"/>cer, then the pain is felt about the ſhare, and the excrements flow moſt abundantly.</p>
+            <p n="5">5. If the Ulcer being ſingle and benigne, the quitter is little white and not ſtinking, but if malignant and eating, the quitter will be greeniſh, lead colour, coming away with great pain and ſtink.</p>
+            <p n="6">6. If it ſhall ariſe of the Lechers Pox, Gonorrhs will uſher it in, or attend upon it, and other tokens of that foul diſeaſe will appear.</p>
+            <p>Cure. The Cure lieth in hindring the flow<g ref="char:EOLhyphen"/>ing of ſuch humors as either beget or cheriſh the Ulcer, to cleanſe and heal the ſame.</p>
+            <p>Blood-letting in this diſeaſe is not requi<g ref="char:EOLhyphen"/>ſite, except an inflamation be joyned there<g ref="char:EOLhyphen"/>with.</p>
+            <p>Give therefore twice or thrice a week one
+<pb n="29" facs="tcp:37821:20"/>ounce of <hi>Diacatholicon,</hi> a known Electuary at night, drinking Poſſet in the morning, or broth made thin, which is more proper.</p>
+            <p>But if the Patient be in ſuch condition that ſhe may and nothing forbid, give in the firſt place a vomit of <hi>Crocus Metallorum</hi> one ounce, ſyrup of Squils half an ounce, which you may repeat at ſome times diſtance, after either of which give this vulnery decoction.</p>
+            <p>Take Egrimony, Burnet, Knot-graſs, Plantain, of each two handfuls, Yarrow and Mugwort of each one handful, China roots, Birthwort roots, Biſlort roots, of each half an ounce, <hi>Lignum vitae</hi> two ounces; boil all, being ſhred, pounded, or ſliced, in three pot<g ref="char:EOLhyphen"/>tles of water, to two pottles; ſtrain it, and drink half a pint every morning and even<g ref="char:EOLhyphen"/>ing, ſweetning it with a little honey, <hi>&amp;c.</hi> It is alſo excellent in this diſeaſe to drink often warm milk with Sugar of Roſes, and a little honey mixed therewith. There are ſeveral o<g ref="char:EOLhyphen"/>ther things in order to cure this diſeaſe, as Injections, Cataplaſms, Ointments, <hi>&amp;c.</hi> But becauſe they are to be uſed and altered as there is occaſion, which I muſt not lanch in<g ref="char:EOLhyphen"/>to here: I muſt omit this, being work where<g ref="char:EOLhyphen"/>in we cannot direct with Pen, as we may by Tongue, at delivery of our medicines upon a moſt ſtrict examination; and therefore I paſs that, and come to</p>
+            <pb n="30" facs="tcp:37821:21"/>
+            <p> Thirdly, Of a <hi>Scirrhus</hi> of the Womb.</p>
+            <p>It is a hard tumor without pain, bred of thick blood, and hardned in the womb.</p>
+            <p>Signs of ſuch a ſwelling bred in the womb are.</p>
+            <p n="1">1. A hardneſs felt in the region of the womb and heavineſs alſo.</p>
+            <p n="2">2. A ſenſe of ſome weight bearing down, eſpecially when the ſick woman ſtands as though the womb would fall into the water<g ref="char:EOLhyphen"/>gate, which is not felt when they ſit or lie down.</p>
+            <p n="3">3. There is no feaver nor pain (wherein it differs from an inflamation) or if any, it is very ſmall, <hi>&amp;c.</hi>
+            </p>
+            <p>But now I know the queſtion will be, how ſhall this diſeaſe be known for a Mole or falſe Conception?</p>
+            <p>For general ſatisfaction in this cafe, I aim<g ref="char:EOLhyphen"/>ing at your better judgment and information concerning your ſelves. Obſerve</p>
+            <p n="1">1. That this tumor or ſwelling uſually is brought by womens taking cold, or drinking cold things, when they have their Courſes flowing.</p>
+            <p n="2">2. In a Mole if the courſes flow, they flow diſorderly, but in this diſeaſe they keep their order: And</p>
+            <p n="3">3. In a Mole a womans dugs ſtrout with Milk; but in this diſeaſe they are extenuated and leſſened.</p>
+            <pb n="31" facs="tcp:37821:21"/>
+            <p> Cure. Bleeding in this caſe, firſt in the arm, then the foot, and afterwards with leeches upon the Hemorrhoid veins will be neceſſary and profitable, ordering him when, and place where diſcreetly.</p>
+            <p>Then purge three days in one week with theſe Pills following. The firſt day</p>
+            <p>Take <hi>Pil. tapis lazuli</hi> half an ounce, oil of Amber three drops, make them into Pills, and ſwallow them in a morning, expecting them to work. The next Doſe</p>
+            <p>Take <hi>Pil. lapis luzuli</hi> two ſcruples, oil of Juniperberries four drops. And the next Doſe</p>
+            <p>Take <hi>Pil. Arabica</hi> two ſcruples, oil of <hi>Aſſa<g ref="char:EOLhyphen"/>foetida</hi> four drops, <hi>&amp;c.</hi>
+            </p>
+            <p>In the mean time the Patient may freely drink a little Mul'd Sack or burnt White<g ref="char:EOLhyphen"/>wine, only let the ſpice uſed be Cinnamon, to refreſh and comfort her; after which, to make an iſſue in one or both legs will be convenient. Outwardly you muſt anoint with this following ointment.</p>
+            <p>Take of the gums called <hi>Bedellium, Am<g ref="char:EOLhyphen"/>moiacum</hi> and <hi>Galbanum,</hi> of each equal quanti<g ref="char:EOLhyphen"/>ties, diſſolve them with a gentle heat in Vi<g ref="char:EOLhyphen"/>negar, then ſtrain it, unto which put oil of Lilies, ſweet Almonds and Roſes, of each e<g ref="char:EOLhyphen"/>qual, Mucilage of Fenugrick-ſeed extracted with White-wine, one ounce or two, accor<g ref="char:EOLhyphen"/>ding as the quantity you make; Hens<g ref="char:punc">▪</g>
+               <pb n="32" facs="tcp:37821:22"/>Gooſes and Ducks fat, each equal, Hogs<g ref="char:EOLhyphen"/>greaſe a little, Wax and Turpentine as much as will ſuffice, uſe it with well and tender rubbings in with a pan of coals. Theſe things being uſed in time and order, doubt<g ref="char:EOLhyphen"/>leſs by Gods bleſſing will prove ſucceſ<g ref="char:EOLhyphen"/>full.</p>
+            <p>Other things there are if theſe fail, which as they are too high for you to make, ſo be<g ref="char:EOLhyphen"/>yond your capacities to adminiſter; there<g ref="char:EOLhyphen"/>fore I paſs this, and come in the next place: which is</p>
+            <p>Fourthly, Of the Cancer of the womb.</p>
+            <p>A Cancer is a hard ſwelling of the body or neck of the womb, which reſiſteth the touch, and cauſeth a vehement pain as it were pricking and cutting the part affected; and if it be ulcerated, it ſends forth matter and quitter, ſometimes yellow, ſometimes black and ſtinking.</p>
+            <p>Signs. It may be known by the definition of the diſeaſe before rehearſed, and no o<g ref="char:EOLhyphen"/>ther ſigns adjoyned, only we for full ſatiſ<g ref="char:EOLhyphen"/>faction ſometimes make uſe of a womb-per<g ref="char:EOLhyphen"/>ſpective inſtrument made on purpoſe for our uſe, in ſuch and ſome other caſes of this nature.</p>
+            <p>Cure. This diſeaſe is accounted incurable; being ſo you may not eaſily be perſwaded of help and cure, though you are offered the
+<pb n="33" facs="tcp:37821:22"/>ſame. Some perſons, to get monies in hand, will promiſe any thing. Being therefore ſo dangerous a diſtemper, I ſhall forbear any in<g ref="char:EOLhyphen"/>ſtructions to you concerning this, only drink<g ref="char:EOLhyphen"/>ing of whey a good quantity &amp; pretty often, with two or three drops of Spirit of Vitriol in every draught, hath been found effectual: after purging and bleeding is neceſſary.</p>
+            <p>A palliative cure therefore only is expect<g ref="char:EOLhyphen"/>ed; to which end and purpoſe, and to give eaſe of that cruel pain, I am not without medicines, but I dare not ſay poſitively they will cure this diſeaſe perfectly, eſpecially, if an Ulcer preceded, or that be ulcerated. Dan<g ref="char:EOLhyphen"/>ger being here, and daily advice being requi<g ref="char:EOLhyphen"/>ſite of either an able Chyrurgion or Phyſici<g ref="char:EOLhyphen"/>an, I reſt it here and paſs to</p>
+            <p>Fifthly, Mortification or Gangrenation of the womb. A gangreen is the corruption or mortification of a part, beginning <hi>&amp;c.</hi>
+            </p>
+            <p>Signs theſe. Signs of the beginning of a gangreen are.
+<list>
+                  <item>1. An unuſual heat felt about the part.</item>
+                  <item>2. Horror and trembling upon the Pa<g ref="char:EOLhyphen"/>tient.</item>
+                  <item>3. Languiſhing and quick beating pulſe.</item>
+                  <item>4. Often faintings and ſwooning.</item>
+                  <item>5. The neck of the womb is diſcovered to be ſoft, lead-colour, black and carrion<g ref="char:EOLhyphen"/>like, and may be prickt or cut without ſenſe.</item>
+                  <pb n="34" facs="tcp:37821:23"/>
+                  <item>6. It ſends forth a ſtinking carrion-like ſmell.</item>
+               </list>
+            </p>
+            <p>In order to Cure. In this moſt grievous and mortal diſeaſe, becauſe you are not pro<g ref="char:EOLhyphen"/>per ſubjects in theſe caſes I muſt be ſilent, on<g ref="char:EOLhyphen"/>ly I have holpen you by the ſigns delivered, that timely you may if fearing theſe things look out for help.</p>
+            <p>And let me tell you, I am not without Au<g ref="char:EOLhyphen"/>thority to aſſure you that women have been cured of this diſeaſe, ſometimes the gangre<g ref="char:EOLhyphen"/>nated place falling of it ſelf by application of proper medicines; and ſometimes hath been cut off by ſuitable inſtruments, and the wo<g ref="char:EOLhyphen"/>mens lives ſaved, the bleſſing of God con<g ref="char:EOLhyphen"/>curting with both remedies and operation.</p>
+            <p>Sixthly, Of wombs, wind, water-ſwelling or Dropſie of the womb.</p>
+            <p>It is a blowing up of the womb, ſometimes to a greater bigneſs, ſometimes leſs, cauſing the belly to ſwell as in other Dropſies and being with Child.</p>
+            <p>Note. There is a twofold Dropſie of the womb, one from wind, like unto that called Timpany, another ariſing from a wheyiſh and watery humor anſwering to the Dropſie of the belly called <hi>Aſcites.</hi>
+            </p>
+            <p>Signs. In laying down which, looking upon it as very neceſſary, I ſhall enquire into a threefold queſtion.</p>
+            <p n="1">
+               <pb n="35" facs="tcp:37821:23"/> 1. How this particular Dropſie of the womb, may be known and diſtinguiſhed from that of the whole body.</p>
+            <p n="2">2. How this particular Dropſie of the womb, may be known and diſtinguiſhed from a woman being great with Child. And</p>
+            <p>Thirdly, How this particular Dropſie of the womb, may be known and diſtinguiſhed from a Mole.</p>
+            <p>In anſwering theſe three queſtions, you may gather the diſtinct ſigns of this peculiar Dropſie of the womb ſubject only unto wo<g ref="char:EOLhyphen"/>men.</p>
+            <p n="1">1. How may this particular Dropſie of the womb, be known and diſtinguiſhed from that Dropſie of the whole body.</p>
+            <p>
+               <hi>Anſw.</hi> It is diſtinguiſhed from an univer<g ref="char:EOLhyphen"/>ſal dropſie of the belly, in that the womb<g ref="char:EOLhyphen"/>dropſie ſwells chiefly the lower part of the belly, whereas the univerſal dropſie diſtends equally the whole belly in all the parts thereof.</p>
+            <p>Again, in the womb-dropſie paleneſs and falling away of the fleſh of the whole body are not ſo ſoon diſcerned, as in the univerſal dropſie, in which alſo for the moſt part there is evident thirſt and drineſs of the tongue, which are not found in the womb-dropſie.</p>
+            <p>Again, in the womb-dropſie ſome wind breaks out of the womb by fits through the
+<pb n="36" facs="tcp:37821:24"/>privities, or elſe a little water comes away ſometimes, which evidently declares that wind or water are contained in the womb.</p>
+            <p>
+               <hi>Queſt.</hi> How may this particular womb<g ref="char:EOLhyphen"/>dropſie, be known and diſtinguiſhed from a woman great with Child.</p>
+            <p>Many good women were deceived in this caſe theſe laſt two years, and I am afraid more will be this year; I ſpeak to my own knowledge, and have to ſeveral told them what, after ſome time they would, and not before, imbrace for truth, who at their recko<g ref="char:EOLhyphen"/>nings expiring came furtherto enquire; which trouble of enquiry, if you mark, I ſave you, by what follows in anſwer to this queſtion.</p>
+            <p>
+               <hi>Anſ.</hi> When a woman is big with Child the ſwelling is not ſo even and depreſſed, but it is ſharp, buncheth out, and ſeems greater about the Navel than elſewhere.</p>
+            <p>Secondly, In greatneſs with Child after ſome months women are for the moſt part ſomewhat better than they were; but the dropſie of the womb, the further it proceeds the worſe it grows.</p>
+            <p>Thirdly, In greatneſs with Child the child is manifeſtly perceived to ſtir after the third or fourth month, which is not in the womb-dropſie. Yet obſerve, (and this is that which deceived ſo many.) It falls out ſome<g ref="char:EOLhyphen"/>times, a certain palpitation or motion is per<g ref="char:EOLhyphen"/>ceived
+<pb n="37" facs="tcp:37821:24"/>in the womb in this diſeaſe, but it is diſtinguiſhed from the moving of a Child thus.</p>
+            <p>The moving of a child is more even and equal: the moving of a child is percei<g ref="char:EOLhyphen"/>ved in divers parts of the belly; that motion felt chiefly in one part thereof: the motion of the infant in greatneſs of child, inlargeth it ſelf weekly more and more, and is to be cauſed by a warm hand or cloth more than ordinary.</p>
+            <p>Fourthly, In women with child womens dugs ſwell, but in the dropſie of the womb they ſometimes are extenuated and become ſmaller, if not, they continue at one ſtay.</p>
+            <p>By theſe ſigns well heeded any under<g ref="char:EOLhyphen"/>ſtanding woman may give a near gueſs, whe<g ref="char:EOLhyphen"/>ther ſhe be a true Mother, and would have it ſaved, or of no concernment, and ſo would have it deſtroyed; for as the Mother by her affection ſignified to <hi>Solomon</hi> whoſe child it was, ſo this by its motion and other ſigns ſignifies of what linage or generation it is, and ſo accordingly may be delt withall.</p>
+            <p n="3">3. <hi>Queſt.</hi> Is, How the womb-dropſie may be known from a Mole or falſe-conception.</p>
+            <p>
+               <hi>Anſw.</hi> That in a Mole women find a kind of heavineſs in their wombs, which is not ſo felt in womb-dropſie; and when they lie on one of their ſides they perceive the weight
+<pb n="38" facs="tcp:37821:25"/>of the Mole to roul like a ſtone to that ſide.</p>
+            <p>Again, in a Mole, violent flux of Courſes come, ſometimes by fits; namely, every third or fourth month, which happens not in the womb-dropſie.</p>
+            <p>Again, in a Mole, the dugs ſwell and ſometimes have milk, which is not thus in a womb-dropſie. I have been the larger in theſe things, becauſe I judge them worth your knowledge, and are of a great concern<g ref="char:EOLhyphen"/>ment to you.</p>
+            <p>Now then, if you by theſe ſigns and tokens find your ſelves to have the womb-dropſie at any time, and are ſure you are not with child (for blood cries high) then for the re<g ref="char:EOLhyphen"/>moval of it uſe theſe things following with prayer and ſupplication.</p>
+            <p>Firſt then, give this Vomit.</p>
+            <p>Take of the infuſion of <hi>Crocus Metallorum</hi> one ounce, ſyrup of Squils half an ounce, mix them and give it in a morning warm, drinking Poſſet ſometimes after it, <hi>&amp;c.</hi>
+            </p>
+            <p>A few days after give <hi>Pil. Arabicae</hi> half a dram, oil of Juniper berries three drops mix<g ref="char:EOLhyphen"/>ed. Let her ſwallow in them days between the Vomit and the Pills ſix Pepper corns every morning faſting. After one days reſt after the Pills, take this following.</p>
+            <p>Take roots of Smallage and Madder, of each two ounces, Savin, Feverfew, Peni<g ref="char:EOLhyphen"/>royal,
+<pb n="39" facs="tcp:37821:25"/>Germander and Mother-time of each one handful, Carraway and Carrots-ſeed of each half an ounce, Saffron and Cinnamon of each one dram, boil all together, being ſli<g ref="char:EOLhyphen"/>ced, bruiſed and ſtirred, as they require in Mugwort-water three quarts to two quarts, ſtrain it, &amp; add to the remaining part honey or Sugar ſufficient to make it pretty tooth<g ref="char:EOLhyphen"/>ſome, the Doſe is a quarter of a pint every morning faſting, uſing exerciſe after it.</p>
+            <p>Drink every night going to bed a ſmall glaſs of Doctor <hi>Stevens</hi> his water, outwardly the belly muſt often be anointed with oil of Dill, Rue, Wormwood, and Southern<g ref="char:EOLhyphen"/>wood.</p>
+            <p>Gliſters alſo are to be adminiſtred, made of the decoction of Wormwood, Peniroyal, Rue, Centaury, in which Gliſters diſſolv two drams of <hi>Elect. Theriaca Diateſſaron.</hi> Theſe things being duly uſed, and the diſeaſe not overcome and expelled, other things there are which you cannot be directed to, the uſe of them being out of your Element; yea, and other medicines there are alſo, ſome of which I have in my cuſtody, which will aſſuredly by Gods bleſſing extinguiſh this di<g ref="char:EOLhyphen"/>ſeaſe totally, and I have ſufficiently proved the ſame in theſe laſt years; which as I am willing to mention, ſo alſo I am as willing to part withall for the good and benefit of poor creatures.</p>
+            <pb n="40" facs="tcp:37821:26"/>
+            <p> Look to this diſeaſe as timely as you may, and many of thoſe inconveniences that do attend it may be prevented. But</p>
+            <p>Seventhly, Of the falling down of the womb.</p>
+            <p>When the womb loſeth its natural ſitua<g ref="char:EOLhyphen"/>tion and falls downward to the water gate, the diſeaſe is termed the falling down, or ſlipping forward of the womb; except ſome<g ref="char:EOLhyphen"/>times by its coming forth too far; and by the diſtemper of the air, this diſeaſe is more un<g ref="char:EOLhyphen"/>handſome and troubleſome than mortal; and beſides, hath only this ill conveniency that doth attend it, it hinders conception.</p>
+            <p>Signs. Signs whereby this diſeaſe is known are evident to the ſenſe. For</p>
+            <p n="1">1. The womb is found ſticking in the water-gate, like a Hen or Gooſes Egg.</p>
+            <p n="2">2. It is attended with a perceivance, with a weight preſſing upon the water-gate, eſpe<g ref="char:EOLhyphen"/>cially when the Patient ſtands upright.</p>
+            <p n="3">3. When they ſit or go to ſtool, a vehe<g ref="char:EOLhyphen"/>ment pain is felt about the privy parts and the hanch-bone.</p>
+            <p n="4">4. Urine comes away by little and little and makes the womb ſmart as it comes.</p>
+            <p>Cure. A Gliſter being given to diſcharge from excrements, and water being made to diſcharge the bladder, the womb is to be re<g ref="char:EOLhyphen"/>ſtored to its proper place; after this manner
+<pb n="41" facs="tcp:37821:26"/>let the woman lie along upon her back with her things wide aſunder, and her knees drawn upwards, then let her or another with her or their hands thruſt her womb inwards, and force it gently ſtill upwards into the neck, ſo as to turn it inwards as it goes, till all is returned within the cavity of the belly which ſhould contain the ſame. But obſerve, that if the womb-fallen be ſwelled ſo that it cannot enter the cavity of the belly, the ſwelling muſt be in the firſt place removed, which may be done with a decoction of Beets, ſprinkling it a little after with Vinegar and Salt; the ſwelling being abated, and the womb reduceable, let it be anointed with Mucilage of Comfrey roots, or with an infu<g ref="char:EOLhyphen"/>ſion of <hi>Gum Tragaganth,</hi> being anointed, ſtrew it with powder of <hi>Biſtort</hi> root and <hi>Maſtick</hi> beaten very fine, and ſo put it up.</p>
+            <p>After it is replaced, the woman lying in her bed a little bending with her thighs gent<g ref="char:EOLhyphen"/>ly ſtretched out, reſting or being croſs one another, let her abide in this poſture ſome<g ref="char:EOLhyphen"/>time, and put in at the water gate a little Wool, Cotton or ſpunge wet in red wine, and uſe ſweet ſcents to her noſe, and ſtinking to her privities: And then every day let her take of this powder following one dram at a time in red wine, forbearing for a time car<g ref="char:EOLhyphen"/>nal imbracement and hard exerciſe.</p>
+            <pb n="42" facs="tcp:37821:27"/>
+            <p> Take <hi>Biſlort</hi> roots in powder one ounce, Mirtle leaves and Garden Parſhip-ſeed, of each two drams, ſhavings of harts-horn half an ounce, red Coral two ounces, mingle them being well powdered, and take as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p>Obſerve, of this diſeaſe you muſt not ex<g ref="char:EOLhyphen"/>pect help ſuddenly; and the more patience is required if it be cauſed (as ſometimes it is) by the unskilfulneſs of Midwives, and hard<g ref="char:EOLhyphen"/>neſs of labour.</p>
+            <p>Notwithſtanding I know the diſeaſe is curable, and ſome have been holpen by a ſe<g ref="char:EOLhyphen"/>cret I have not long ſince attained unto, to<g ref="char:EOLhyphen"/>gether with ſome other things done and gi<g ref="char:EOLhyphen"/>ven, as directions tending thereupon; though in a bad caſe the womb coming out of the body as big as my fiſt, and they no longer at eaſe than they went continually with a truſs.</p>
+            <p>Therefore if thoſe inſtructions ſhall fail that I have given you, you may remember there is notwithſtanding proviſion made for you through Gods goodneſs, for your well-being.</p>
+            <p>Eightly, Of the womb ſhut up, or imper<g ref="char:EOLhyphen"/>forated. Virgins that have their wombs clo<g ref="char:EOLhyphen"/>ſed up, are ſaid to be imperforated, like a Cask of liquor having no hole to put in a ſpicket.</p>
+            <p>Now the cloſure of the womb is wont to be in three places, <hi>viz.</hi>
+            </p>
+            <pb n="43" facs="tcp:37821:27"/>
+            <list>
+               <item>In the inner mouth of the womb.</item>
+               <item>In the neck of the womb. And</item>
+               <item>In the outward mouth of the womb, next the water-gate.</item>
+            </list>
+            <p>Signs. This diſeaſe, according as the place that is afflicted, is more hard, or more eaſie to be diſcovered.</p>
+            <p>If the cloſure or ſtoppage be in the out<g ref="char:EOLhyphen"/>ward orifice of the privity, it is diſcerned by ſeeing and feeling.</p>
+            <p>If the cloſure or ſtoppage be in the mouth of the womb, it is not diſcerned till the courſes begin to break out; for when the time of their monthly purgation is come, pains and gripings are felt in the region of the womb at certain periods of time, with a ſenſe of weight, yet no flux of courſes fol<g ref="char:EOLhyphen"/>lows. Here note the conjecture will be more probable, if the Virgin be of a good ha<g ref="char:EOLhyphen"/>bit of body, not troubled with obſtructions.</p>
+            <p>The diſeaſe perſevering, their wombs ſwell ſo that maidens ſeem to be with child, and ſometimes their whole body ſwells, and ſeems ſometimes to be black and blew co<g ref="char:EOLhyphen"/>lour through the abundance of blood; and untill I made a narrow inſpection in theſe things, I my ſelf, as well as ſeveral others have ſometimes miſtruſted ſome maidens honeſty, when there hath been no real occa<g ref="char:EOLhyphen"/>ſion.</p>
+            <pb n="44" facs="tcp:37821:28"/>
+            <p> But if the cloſure or ſtoppage do poſſeſſe the neck of the womb, it is perceived in the firſt carnal conjunction, becauſe it doth not admit the mansyard.</p>
+            <p>Note, for a right and true underſtanding of this diſeaſe, a skilful Midwife, man or woman is required, who by their hand can give a near gueſs thereof.</p>
+            <p>And ſome ſuppoſition there is of this di<g ref="char:EOLhyphen"/>ſeaſe, when the mans ſeed doth plentifully ſlip away as ſoon as it is caſt in; though ſometimes that is occaſioned alſo through ſome preternatural humor abounding, and having recourſe to thoſe parts, cauſing the womb to be more moiſt than it ought to be, thereby hindring it from retaining, what it ought in order to conception to imbrace.</p>
+            <p>The cloſure or ſtoppage of the inner orifice of the womb is accounted uncurable, by rea<g ref="char:EOLhyphen"/>ſon no inſtrument can reach the ſame, how<g ref="char:EOLhyphen"/>beit it hath been attempted ſometimes with good ſucceſs.</p>
+            <p>But the other cloſures or ſtoppages are ac<g ref="char:EOLhyphen"/>counted curable, and many have been holpen, and afterwards been well imbraced by their husbands, &amp; as other women conceived, and brought forth Children.</p>
+            <p>But directions in this caſe you may not expect, the chief cure lying in handy operati<g ref="char:EOLhyphen"/>on; neither need you dread or fear the work,
+<pb n="45" facs="tcp:37821:28"/>it being of no great difficulty or danger, be<g ref="char:EOLhyphen"/>ing managed by a skilful Artiſt, and the bleſſing of God concurring.</p>
+            <p>And ſo I have ended the diſeaſes of the cavity of the womb.</p>
+            <p>And ſo I come now in the third place, to ſay ſomething of thoſe diſeaſes which are in reſpect of Conception, breeding and bring<g ref="char:EOLhyphen"/>ing forth.</p>
+            <p>The firſt is,</p>
+            <p>Of Barrenneſs.</p>
+            <p>This word barrenneſs in this place is to be underſtood in a large and ample ſignificati<g ref="char:EOLhyphen"/>on, ſo as to comprehend all kind of impo<g ref="char:EOLhyphen"/>tency, and every impediment of conception; namely, when a woman at ſuch an age, in which ſhe ought naturally to be capable of conception, and uſing the company of a man, doth not conceive.</p>
+            <p>Here note four things.
+<list>
+                  <item>1. That a woman in her genital imbrace<g ref="char:EOLhyphen"/>ments, ought conveniently to receive the mans ſeed into her womb.</item>
+                  <item>2. That ſhe ought to retain the ſame for a convenient ſeaſon.</item>
+                  <item>3. That ſhe ought to cheriſh and preſerve the ſame in her womb. And</item>
+                  <item>4. That ſhe afford fitting materials from the Embrio or firſt-conception, and duly to augment the ſame as need ſhall require.</item>
+               </list>
+            </p>
+            <pb n="46" facs="tcp:37821:29"/>
+            <p> Now if the woman receive not the ſeed, if ſhe retain it not, if ſhe preſerve and cheriſh it not, if ſhe nouriſh it not ſo as to increaſe and grow; theſe are impediments to conception, and therefore for your ſakes for whom I write. I will not ſpare to give you the ſigns of barrenneſs, according to theſe four ſorts of cauſes propounded, becauſe in what I do in this particular I aim at the good of others as well as my ſelf.</p>
+            <p n="1">1. Therefore I have told you that a wo<g ref="char:EOLhyphen"/>man in her genital imbracements ought con<g ref="char:EOLhyphen"/>veniently to receive the mans ſeed into her womb.</p>
+            <p>Signs. Hindring of reception of the ſeed is not hard to be diſcovered; for obſerve, it is occaſioned by
+<list>
+                  <item>1. Tenderneſs of age, as alſo over elderly ſtate.</item>
+                  <item>2. Evil conſtitution of thoſe parts which border upon the womb, <hi>viz.</hi>
+                  </item>
+                  <item>3. When women halt or have crooked leggs, their Crupper-bone depreſt or are o<g ref="char:EOLhyphen"/>ver fat.</item>
+                  <item>4. Hatred between man and wife, and ſo I may bring in crooked conditions, as well as crooked leggs. Look to it women.</item>
+                  <item>5. Particular diſeaſes alſo may hinder the reception of ſeed, as tumors, ulcers, ob<g ref="char:EOLhyphen"/>ſtructions, cloſures or ſtoppage, and theſe
+<pb n="47" facs="tcp:37821:29"/>may be known by ſearch of the genital parts, by an ingenuous man or woman skilled to that purpoſe.</item>
+               </list>
+            </p>
+            <p>Secondly, I have told you that ſhe ought alſo to retain the ſeed for a convenient ſea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>Signs here are evident, the woman being ſenſible thereof.</p>
+            <p>Having a very moiſt and ſlippery womb, <hi>&amp;c.</hi> But the next head will explain this.</p>
+            <p>And becauſe that requires more exquiſite ſearch and knowledge, I paſs this and come to</p>
+            <p n="3">3. I have alſo told you, that a woman ought to cheriſh and preſerve the ſeed in her womb; the cauſes therefore of corrupting the ſeed in the womb, thereby hindring its nou<g ref="char:EOLhyphen"/>riſhment and cheriſhment are four.</p>
+            <list>
+               <item>1. A cold diſtemper of the womb.</item>
+               <item>2. A moiſt diſtemper of the womb.</item>
+               <item>3. A hot diſtemper of the womb.</item>
+               <item>4. A dry diſtemper of the womb.</item>
+            </list>
+            <p>The true and general ſigns of each of which, I ſhew you</p>
+            <p n="1">1. A cold diſtemper of the womb is here<g ref="char:EOLhyphen"/>by known.</p>
+            <p n="1">1. The woman longs not after carnal imbracements, and feels little pleaſure there<g ref="char:EOLhyphen"/>in.</p>
+            <p n="2">2. Her face is ſoft, whitiſh and cloudy.</p>
+            <p n="3">
+               <pb n="48" facs="tcp:37821:30"/> 3. Her feeling is dull about her ſhare, loins and thighs.</p>
+            <p n="4">4. She voids thin and crude ſeed, and with little pleaſure.</p>
+            <p n="5">5. Her courſes are ſtopped or come very ſparingly, being pale and diſcoloured, and keep no conſtant orderly time, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. A moiſt diſtemper of the womb is known.</p>
+            <p n="1">1. By the <hi>lax flagi,</hi> and ſoft habit of the womans body.</p>
+            <p n="2">2. Her much ſpitting and wateriſh ſto<g ref="char:EOLhyphen"/>mach.</p>
+            <p n="3">3. Frequent and almoſt continual flux of whites.</p>
+            <p n="4">4. Plenty of courſes alſo, but thin and watery.</p>
+            <p n="5">5. No appetite to fleſhly conjunction.</p>
+            <p n="6">6. Heavineſs of her loins, apt to miſcar<g ref="char:EOLhyphen"/>ry and plenty of urin, <hi>&amp;c.</hi>
+            </p>
+            <p>Thirdly, A hot diſtemper of the womb is known.</p>
+            <p n="1">1. By the manly and ſtrong habit of the womans body,</p>
+            <p n="2">2. By a ruddy countenance and black hare, both of head and eye-brows.</p>
+            <p n="3">3. She is frequent, diſpoſed to be angry and thirſty.</p>
+            <p n="4">4. Her urin little and courſes few, but ſharp, doing ſometimes dammage to the ſe<g ref="char:EOLhyphen"/>cret paſſages.</p>
+            <p n="5">
+               <pb n="49" facs="tcp:37821:30"/> 5. Their privities itch, and they are prone to carnal imbracements, and ſuddenly void their ſeed.</p>
+            <p>Fourthly, A dry diſtemper of the womb is known,</p>
+            <p n="1">1. By the ſmall quantity of the courſes.</p>
+            <p n="2">2. Drying, itching and chopping of the mouth of the womb.</p>
+            <p n="3">3. Little excretion of ſeed in genital im<g ref="char:EOLhyphen"/>bracements.</p>
+            <p n="4">4. Trouble ſometimes ariſing from over<g ref="char:EOLhyphen"/>much carnal conjunction, as alſo leanneſs.</p>
+            <p>If the ſeed be corrupted, and barrenneſs cauſed by witchcraft, all other ſigns will be abſent, which are wont to declare the na<g ref="char:EOLhyphen"/>tural and manifeſt cauſes of barrenneſs; there will be likewiſe ſome alienation of minds between the married couple, of which neither of them can give any handſome ac<g ref="char:EOLhyphen"/>count: neither can either of them but ſel<g ref="char:EOLhyphen"/>dom ſhoot forth their ſeed, and when they do, it is not without labour and difficulty.</p>
+            <p>Diet or poiſon that extinguiſh ſeed, if they have been taken, may come to knowledge by diligent queſtioning of the woman and thoſe that uſually are about her.</p>
+            <p>Laſtly, Malignant diſeaſes, ſuch as are of power to extinguiſh the ſeed, as Leprous, Mangineſs, the Whores Pox, and ſuch like, are known by their proper ſigns.</p>
+            <pb n="50" facs="tcp:37821:31"/>
+            <p> Note that thoſe couples who are of one conſtitution, and ſo conſequently (if not alte<g ref="char:EOLhyphen"/>red by means) their ſeeds, both thick, or both thin, both hot, or both cold, have ſeldom children.</p>
+            <p>Now to know whether a woman be na<g ref="char:EOLhyphen"/>turally barren, is a certain hidden diſpoſiti<g ref="char:EOLhyphen"/>on and very difficult to unfold, Authors have left many ways to try; yet finding no certainty in them, I was reſolved to have paſt them in ſilence; but conſidering that ſome might wiſh otherwiſe upon the reading hereof, I ſhall ſet down three ways, that whoever is ſo diſpoſed may try them, and accordingly ſpeak.</p>
+            <p n="1">1. <hi>Hypocrates</hi> ſaith, if a woman conceive not, and thou wouldſt know whether ſhe will conceive or not, let her either re<g ref="char:EOLhyphen"/>ceive ſome fume, or put the body of <hi>Galbanum</hi> ſoftned at the fire, tied up in ſilk with the threed to make faſt about the thigh, or Gar<g ref="char:EOLhyphen"/>lick; if ſhe ſmell, or her head or mouth ſmell of the ſame thing, ſhe is pronounced fruit<g ref="char:EOLhyphen"/>full.</p>
+            <p>Note. It muſt be done at night, and the tryal to be next morning.</p>
+            <p>Secondly, <hi>Amatus Luſitanus,</hi> commends this following as a moſt true ſign; he takes a drain of a hairs runnet which diſſolved in warm water, he gives the woman to drink,
+<pb n="51" facs="tcp:37821:31"/>being in a bath of hot water and faſting, if the woman do then feel pains in her belly, he ſaith ſhe is fruitful, if not, that ſhe is barren.</p>
+            <p>Thirdly, others commend the urine of the woman to diſcover and manifeſt this doubt uſing it thus, being put into a convenient veſ<g ref="char:EOLhyphen"/>ſel, ſteep Barley therein, which Barley if it grow within ten dayes, they count it a ſign of fruitfulneſs, if not of barrenneſs, and ſome do pour the water upon Bran or Fenugreek, and take it for a note of barrenneſs if any worms breed there.</p>
+            <p>And theſe be all to this purpoſe. Thoſe that have an occaſion, and are diſpoſed to try, they may without dammage, danger, or any great charges. But ſometimes it ſo hap<g ref="char:EOLhyphen"/>pens, though the woman moſt uſual, that the man is the reaſon of non-conception or gene<g ref="char:EOLhyphen"/>ration; which we ſhall diligently conſider and lay down ſome manifeſt tokens of diſ<g ref="char:EOLhyphen"/>covery, for it would be in vain in that caſe to preſcribe medicines and directions to the woman, ſhe being not the proper ſubject.</p>
+            <p>Barrenneſs proceeding from the man (for I muſt not favour my own ſex no further than it may be with conveniency) may be known.</p>
+            <p n="1">1. By the diſeaſes of the genital parts, as inability to raiſe his yard, want of ſeed, ſwelling of his ſtones, running of the reins, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">
+               <pb n="52" facs="tcp:37821:32"/> 2. By his being faint hearted and wo<g ref="char:EOLhyphen"/>maniſh by nature, and be ſlow in caſting forth his ſeed, and that be cold.</p>
+            <p n="3">3. If he want a beard, and have little or no luſt to carnal imbracements and perceive very little pleaſure therein.</p>
+            <p>Theſe are ſignal tokens and diſcover unto us barrenneſs in the man, as well as the o<g ref="char:EOLhyphen"/>ther in the woman.</p>
+            <p>I come now to the curative part; only I muſt mind you of this, that you may not expect here variety of medicines, accor<g ref="char:EOLhyphen"/>ding as the diſeaſe proceeds from this or the other cauſe, which the ſigns aforeſaid diſco<g ref="char:EOLhyphen"/>ver, no, that would be too large, but only ſuch a medicine as is ſuited and fitted in or<g ref="char:EOLhyphen"/>der to this buſineſs for all ſorts of barrenneſs, only in that barrenneſs from the wombs cloſure it to be underſtood, ſomething elſe is to be done there before the medicine be uſed.</p>
+            <p>Cure. Take <hi>Eryngus</hi> roots and Satyrion of each four ounces, Ameos ſeed, Rocket ſeed, Water creſſes ſeed, of each two ounces, Filbert-kernels, Pine-kernels, and Piſlachios of each one ounce, two pair of the ſtones of a Bore-pig, Mace, Cinnamon, Cloves and Ginger of each two drams, beat, bruiſe and ſlice, as they ought to be, and then put them into a pottle of Muſcadine mixed with a
+<pb n="53" facs="tcp:37821:32"/>quart of old Sack, cover it cloſe, and let it boil ſoftly to the loſs of a quart, ſtrain it, and let the woman drink a quarter of a pint three times a week going to bed, and in the mor<g ref="char:EOLhyphen"/>ning following let her company with her Husband; and obſerve, that as ſoon as her husband is paſſed from her, ſhe immediately croſs her legs putting a warm cloth next her body, and lie a full hour afterwards, and ne<g ref="char:EOLhyphen"/>ver to taſte her husbands benevolence in that nature, but of thoſe mornings which follow after the drink.</p>
+            <p>Many more directions are to be given in this point, only neceſſary it is that the par<g ref="char:EOLhyphen"/>ties may be known, becauſe directions of this nature muſt be varied; as there may be oc<g ref="char:EOLhyphen"/>caſion either in the one or the other.</p>
+            <p>And certainly, if women were ſo wiſe as to admit or look out, there are but few that are barren, but might by Gods bleſſing be holpen; thereby we hope to bring joy to Parents, and a better life of love between party and party, which ſometimes occaſions great differences, or at leaſt clouds happineſs; for the general tone is, <hi>Give me Children or elſe I die.</hi>
+            </p>
+            <p>And herein I ſpeak the more confidently, becauſe never yet any one failed of cure that came to me upon this ſcore, that were willing, diligent and patient in taking my
+<pb n="54" facs="tcp:37821:33"/>medicines; whereof that aforementioned was ever one, and obſerving thoſe rules and directions that I laid before them.</p>
+            <p>Secondly, Of acute and chronical diſeaſes of women with child, the acute and chroni<g ref="char:EOLhyphen"/>cal diſeaſes of women with child are the ſame in eſſence or nature, and have the ſame ſigns with the like diſeaſes in women not with child, or in men; wherefore I muſt not run out here to the ſigns of thoſe diſeaſes that are incident to women with child, or to ſpeculate there upon, they being to be found elſe where.</p>
+            <p>But although the ſigns as aforeſaid either in the one or the other differ not, yet the cure of the aforeſaid diſeaſes in women with child doth remarkably differ in point of Diet and Phyſick, and eſpecially thoſe two grand remedies, blood-letting and purgation. As for matter of diet, a more fuller and lar<g ref="char:EOLhyphen"/>ger diet may be allowed unto a woman with child under a diſeaſe, than to others, and that in regard of the infant; yet care muſt be taken alſo that the diet do not exceed, ſo as to heighten and augment the feaver; how<g ref="char:EOLhyphen"/>ever remember that errour in this point, which is in point of fulneſs is the more tollerable, for recovery is chiefly to be expect<g ref="char:EOLhyphen"/>ed from the ſtrength of the mother and child.</p>
+            <pb n="55" facs="tcp:37821:33"/>
+            <p> As for bleeding and purging, they are al<g ref="char:EOLhyphen"/>lowable, and frequently practiſed by me, and many other ingenious and ſober Doctors, with very great and ſatisfactory ſucceſs; the errour about it I refute at the latter end of my book, and therefore here ſhall only ſay further.</p>
+            <p>That the time when, and the quantity, which are the things of enquiry in this caſe; for at ſometimes there may be more blood taken than at otherſome, and ſo likewiſe at ſome times there may be a bigger Doſe given than at other ſome.</p>
+            <p>But in theſe caſes I ſhall be ſilent, becauſe I would not incourage any woman whatſoever to theſe things without the advice of a ſound, judicious and conſcientious Doctor, fearing, they miſcarrying, they ſhould endeavour to hide and wrap their action in that nature, and attribute their ſin upon that occaſion to this little book of mine, which I writ for con<g ref="char:EOLhyphen"/>trary ends and purpoſes, <hi>viz.</hi> their good hap<g ref="char:EOLhyphen"/>pineſs and advantage in this life.</p>
+            <p>But then thirdly, of abortion or miſcarriage. Abortion or miſcarriage is the bringing forth of an imperfect or unripe child, and conſe<g ref="char:EOLhyphen"/>quently, a child dead in the womb is not counted an abortion till it be excluded; ſo whether a live or dead child be brought forth, not being ripe, nor having attained to
+<pb n="56" facs="tcp:37821:34"/>the juſt term of growth which it ought to have had in the womb, it is to be termed an abortion or miſcarryed child.</p>
+            <p>Signs. The ſigns of preſent abortion are manifeſt of themſelves, but ſuch as go before abortion or miſcarriage, and do prognoſticate the ſame, are theſe.
+<list>
+                  <item>1. An unuſual heavineſs of the loins and hips.</item>
+                  <item>2. A lothneſs to ſtir, with loſs of appe<g ref="char:EOLhyphen"/>tite.</item>
+                  <item>3. Shivering and ſhaking coming by fits.</item>
+                  <item>4. Pain in the head, eſpecially about the roots of the cyes.</item>
+                  <item>5. A ſtraitning of the ſides, and of the belly above the Navel.</item>
+                  <item>6. The flaging or failing and extenuation of the Dugs.</item>
+                  <item>7. Plenty of milk roping from the dugs voluntary argues miſcarriage.</item>
+                  <item>8. Frequent pain and almoſt continual a<g ref="char:EOLhyphen"/>bout the reins and loins reaching toward the ſhare, with a certain endeavour of going out or preſſing down of the womb.</item>
+               </list>
+            </p>
+            <p>And obſerve, in this latter ſign flowing from the womb, if any pure blood or wheyiſh matter, or water follow the afore<g ref="char:EOLhyphen"/>ſaid pains and endeavour of coming out, miſcarriage is not far, and at that time no<g ref="char:EOLhyphen"/>tice being taken the ſituation or poſture of
+<pb n="57" facs="tcp:37821:34"/>the child is changed, for whereas it lay high and poſſeſſed the middle of the womans bel<g ref="char:EOLhyphen"/>ly like a Sugar-loaf bearing out, it is now ga<g ref="char:EOLhyphen"/>thered round like a foot-ball, and rowled down towards the water-gate, and then ſometimes, though not alwayes, there follows grievous ſymptoms, as ſhivering, trembling, palpitation of the heart, ſwooning and a<g ref="char:EOLhyphen"/>bounding in bleeding, <hi>&amp;c.</hi>
+            </p>
+            <p>I have been the larger upon thoſe ſigns, becauſe I would willingly inſtruct women for their good; for by theſe truly and wiſely obſerved, miſcarriage and all thoſe dange<g ref="char:EOLhyphen"/>rous conſequences which attend it may be prevented by timely uſing remedies ſuitable and fitting; which brings me to the cure, <hi>&amp;c.</hi>
+            </p>
+            <p>Cure. The cure conſiſteth in preſervation, for that which is paſt cannot be helped. And</p>
+            <p>The preſervation from abortion or miſ<g ref="char:EOLhyphen"/>carriage hath two principal parts or heads.</p>
+            <p>The one concerning the woman before ſhe is with child, the other when ſhe is with child.</p>
+            <p>Before the woman is with child, all evil diſpoſition of body which are wont to cauſe miſcarriage muſt be removed, as fulneſs of blood, badneſs of humors, and peculiar diſ<g ref="char:EOLhyphen"/>eaſes of the womb, <hi>&amp;c.</hi>
+            </p>
+            <p>Concerning all which advice muſt be ta<g ref="char:EOLhyphen"/>ken of ſome able Doctor with ſuitable me<g ref="char:EOLhyphen"/>dicines;
+<pb n="58" facs="tcp:37821:35"/>for this would be too large a field for me at this time to walk or take a turn in. But then</p>
+            <p>When ſhe is with child, how to prevent her miſcarriage, I ſhall here inſert that which may do good and be ſerviceable.</p>
+            <p>Beſides then that medicine which I have already given for the ſtopping the overflow<g ref="char:EOLhyphen"/>ing of the courſes, which is excellent in this caſe, being taken as is there directed, I ſhall ad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,</p>
+            <p>Take <hi>Kermes</hi> berries, and <hi>Tormentil,</hi> and <hi>Biſlort</hi> roots, of each half an ounce, <hi>Maſtick</hi> two drams, Date ſtones and ſhavings of Ivo<g ref="char:EOLhyphen"/>ry of each one dram, powder them, and mix them into the form of an Electuary with ſyrup of Coral, and then mix that with Con<g ref="char:EOLhyphen"/>ſerve of red roſes and Quinces, of each two ounces; take the quantity of a Cheſnut three times a day, morning, at four a clock afternoon, and at going to bed.</p>
+            <p>Hang an Aegle ſtone, Jaſper or Sma<g ref="char:EOLhyphen"/>ragds ſtone about the neck or a piece of Co<g ref="char:EOLhyphen"/>ral in Tiffany, make a Plaiſter with thoſe ſalves called, <hi>viz. Emp. pro Matrice &amp; Contra Rupturum,</hi> of each alike, and apply it to the region of the ſhare and loins; and to the end that the woman may receive good and bene<g ref="char:EOLhyphen"/>fit, ſhe muſt reſt her ſelf, and keep her ſelf as quiet as poſſible ſhe can both in her body
+<pb n="59" facs="tcp:37821:35"/>and mind, alſo ſhe muſt abſtain from genital imbracements, <hi>&amp;c.</hi>
+            </p>
+            <p>Moreover this I have obſerved, that by the beſt and higheſt graduated means that could be gotten, ſometimes miſcarriage will not be prevented without blood-letting; therefore ſometimes to ſome perſons, to pre<g ref="char:EOLhyphen"/>vent from this evil, blood-letting is abſo<g ref="char:EOLhyphen"/>lutely neceſſary; yet I dare not ſay but I have holpen many without bleeding, by ſome ſecret <hi>Arcanums</hi> and ſpecifical medi<g ref="char:EOLhyphen"/>cines ſafe to be taken, that my induſtry in the Art of Chymiſtry hath made me maſter of, God bleſſing my endeavours.</p>
+            <p>But thirdly, of hard child-birth.</p>
+            <p>Hard travel in child bearing, is ſuch as keep not the due and ordinary laws of na<g ref="char:EOLhyphen"/>ture, taking up longer time than ordinary, and accompanied with more vehement pains than are uſual, and other more grievous ſymptoms.</p>
+            <p>Signs. Hard travel is known both by the childing woman, and by the aſſiſtants; but eſpecially, by the Midwife.</p>
+            <p n="1">1. If the woman continue longer time than ordinary in labour, as two, three, four, or more days, whereas a truly natural child<g ref="char:EOLhyphen"/>birth ought to be accompliſhed within the ſpace of twelve or twenty four hours at far<g ref="char:EOLhyphen"/>theſt.</p>
+            <p n="2">
+               <pb n="60" facs="tcp:37821:36"/> 2. Its a ſign of a hard labour, if the wo<g ref="char:EOLhyphen"/>mans pains be weak, and are long before they return, and that more eſpecially if her pains be more about her back than privities.</p>
+            <p n="3">3. If the woman be weak, and the child weak, moving ſlowly, or be either too fat or too lean, uſually there are hard labours, or be crooked alſo.</p>
+            <p n="4">4. Sometimes hard labour is occaſioned by the diſeaſes of the womb.</p>
+            <p n="5">5. Sometimes from the greatneſs and falſe ſituation of the child, and</p>
+            <p n="6">6. Sometimes alſo hard labour may be gueſſed at, if the water flow from the wo<g ref="char:EOLhyphen"/>man or part of it, before its true time, which ought but immediately to proceede the birth; for this ſignifies that the after-birth is ſtron<g ref="char:EOLhyphen"/>ger than ordinary, which can hardly be bro<g ref="char:EOLhyphen"/>ken, <hi>&amp;c.</hi>
+            </p>
+            <p>Cure. In pity to poor women in this caſe (though occaſioned by ſin.)</p>
+            <p>I ſhall lay down ſome choice and excel<g ref="char:EOLhyphen"/>lent obſervations and medicines in order for their good; not at this time at all medling with any directions to, or manual operati<g ref="char:EOLhyphen"/>on of the Midwife.</p>
+            <p>The obſervations are theſe.</p>
+            <p n="1">1. Let the woman lay off all her rings, yea, and thoſe that are about her alſo.</p>
+            <p n="2">2. Let her forbear eating any thing that is
+<pb n="61" facs="tcp:37821:36"/>aſtringent or binding, eſpecially at that time.</p>
+            <p n="3">3. Let her endeavour to be as chearful and lively as poſſible ſhe may, for ſleepineſs and ſottiſhneſs do ſlacken the endeavours both of mother and child.</p>
+            <p n="4">4. Let her alſo keep her mind free from fear, paſſion, ſadneſs, anger, wroth, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. Let her have a Midwife of whom ſhe hath a good conceit, and let no woman be about her, that there is the leaſt cauſe or ſu<g ref="char:EOLhyphen"/>ſpicion of prejudice or non-affection.</p>
+            <p n="6">6. Let her not ſtir unſeaſonably, nor agi<g ref="char:EOLhyphen"/>tate or move to and from unduly, fearing it may prevent the child iſſuing in a fitting po<g ref="char:EOLhyphen"/>ſture.</p>
+            <p n="7">7. Let her have her husband, if ſhe require or deſire it, to come into the room to her, as often as the man may be rightly conſtituted, and the nature of the work will permit; I do not know whether a man kiſſing his wife at that time have any vertue in it or no, but this I know for a certain truth, that many good women, ſome I could name, have ſuf<g ref="char:EOLhyphen"/>fered abundantly in this caſe, yea and ſome ſo much, that their lives have been loſt thereby; for being denied this priviledge, they dying, if not undelivered, yet not till all is gone and ſpent that ſhould afterward revive and comfort her, and ſhe nearer to the grave than a bed.</p>
+            <pb n="62" facs="tcp:37821:37"/>
+            <p> I lay down this the rather, becauſe there hath been ſuch evident good ſucceſs upon the mans preſence in ſeveral deliveries even immediately, that it's a pity it is not, if ſer<g ref="char:EOLhyphen"/>viceable to the woman, wiſely and diſcreetly put in practice no oftner: And beſides, be<g ref="char:EOLhyphen"/>cauſe I know no ſubſtantial reaſon or ground either from Scripture, Hiſtory, nor nature, why a man rightly and duly qualifi<g ref="char:EOLhyphen"/>ed, ſhould not have and injoy that priviledge at convenient ſeaſons to viſit his wife, as in any other dangerous ſickneſs or diſtemper.</p>
+            <p>Weigh what I ſay well before you judge.</p>
+            <p n="8">8. Let her keep her breath and retain her ſtrength till the right and true time of travel comes. This I intimate, becauſe there have been many, I have known ſome, that have ſuffered upon this account; eſpecially young women, who think they are bound, and that it is their wiſdom to do as the good wives bid them, and its common amongſt them though but ſtragling, degenerate and wild pains, to bid them ſtop their mouths, hold their breath, and ſtrain downwards: whereas indeed ſuch pains ſhould be let paſs without ſuch obſervation, and the woman not put to ſpend her ſpirits and ſtrength till it may do her good, <hi>viz.</hi> when the water is complete and judged ready to, or hath broke, then let her ſtrive and ſtrain what ſhe
+<pb n="63" facs="tcp:37821:37"/>is able and not before, fearing if ſhe do, when that time comes, her ſtrength and ſpirits may be impaired, and for want thereof the child may not immediately follow the wa<g ref="char:EOLhyphen"/>ter, and ſo thoſe places which then, and by that were made moiſt and ſlippery, will af<g ref="char:EOLhyphen"/>terwards become dry and more ſtraitned, and ſo conſequently longer time, for the birth of the child and pain of the mother may be expected; therefore obſerve it.</p>
+            <p>The next thing is the cure or help by me<g ref="char:EOLhyphen"/>dicines.</p>
+            <p>I ſhall lay down three, with this obſerva<g ref="char:EOLhyphen"/>tion, that none of them be given till ſuch time the Midwife aſſures the water is com<g ref="char:EOLhyphen"/>pleat or broken. The firſt is,</p>
+            <p>Take oil of ſweet Almonds and White<g ref="char:EOLhyphen"/>wine, of each two ounces, <hi>Saffron</hi> and <hi>Cinna<g ref="char:EOLhyphen"/>mon,</hi> of each twelve grains, <hi>Conf. Alkermes</hi> half a dram, ſyrup of <hi>Mugwort</hi> one ounce, Chymical oil of <hi>Aſaſoedita</hi> two drops, mixt, and make a potion. Another is,</p>
+            <p>Take <hi>Ditany</hi> of <hi>Creet, Birthwort</hi> roots, and cakes of <hi>Myrrh,</hi> of each ten grains, <hi>Saffron</hi> and <hi>Cinnamon,</hi> of each twelve grains, <hi>Conf. Alker<g ref="char:EOLhyphen"/>mes</hi> half a dram, <hi>Cinnamon</hi> water half an ounce, <hi>Orange</hi> flower and <hi>Mugwort</hi> water, of each one ounce, Chymical oil of <hi>Juniper ber<g ref="char:EOLhyphen"/>ries</hi> four drops, make a potion. Or</p>
+            <p>Thirdly, Take of Chymical oil of <hi>Amber</hi>
+               <pb n="64" facs="tcp:37821:38"/>twelve or fifteen drops in a glaſs of wine, or Chymical oil of <hi>Cinnamon,</hi> four or five drops in a glaſs of wine. Or</p>
+            <p>Chymical oil of <hi>Saffron</hi> ſeaven or eight drops, or extract of <hi>Saffron</hi> five or ſix grains in a glaſs of wine. Or</p>
+            <p>Balſom <hi>Naturale</hi> ſix drops in one ounce of ſyrup of <hi>Savine, &amp;c.</hi>
+            </p>
+            <p>And theſe or any of theſe, are very good things and proper adminiſtrations, being gi<g ref="char:EOLhyphen"/>ven as afore directed. Indeed there is one thing more, which I at preſent forbear to name, for good reaſons beſt known unto my ſelf, which indeed is an infallible remedy to give women ſpeedy and eaſie labours, being given as is and ſhall be directed: Concerning which I am bold to ſay, that many womens and childrens lives might be ſaved in a year, by the taking of the ſame, it being an expe<g ref="char:EOLhyphen"/>rimental medicine, fit and worthy to be had in every Ladyes, and Gentle-womans, and Midwiſes Cloſet, to give and adminiſter to them that are not able to give to themſelves, and for all big-belly'd wo<g ref="char:EOLhyphen"/>men, and eſpecially thoſe who uſe to have or fear hard labours. I ſay it again, that by Gods bleſſing nothing but great things in this caſe hath been done by, and may be ex<g ref="char:EOLhyphen"/>pected from it: And although it be ſcarce to be had, and the preparation ſometimes dif<g ref="char:EOLhyphen"/>ficult;
+<pb n="65" facs="tcp:37821:38"/>yet I am, and have been, this twelve month, endeavouring to make my ſelf ma<g ref="char:EOLhyphen"/>ſter of a conſiderable quantity, and my la<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath not altogether been in vain. And <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o I come to the next thing; only I muſt mind you of two things, one of which ſhould indeed have been done before; accept it now, <hi>i. e.</hi>
+            </p>
+            <p>Sneezing either naturally or artificially by medicines, is ſometimes very good, and may not be forbidden to a woman labouring with a living or dead child. To comfort the wo<g ref="char:EOLhyphen"/>man, ſhe may take now and then a little burnt wine with a blade or two of <hi>Cinnamon,</hi> a little <hi>Alkermes,</hi> and ſweetned with ſyrup of <hi>Gilly-flowers:</hi> what I have further in this caſe is to Midwives, to whom I ſhall dedicate a Tract alone, and be willing therein to learn them ſomething that are willing to learn, that ſo they may officiate themſelves, and do the work without the aſſiſtance of a man at ſuch times, as there is not abſolute neceſ<g ref="char:EOLhyphen"/>ſity. But till then, and there is information in the point, Let me adviſe all Midwives not to juggle nor bogle in their work, or ſtand upon terms of honour to the loſs of mo<g ref="char:EOLhyphen"/>ther or child, or both, as it hath been ſome<g ref="char:EOLhyphen"/>times to my knowledge.</p>
+            <p>But things being out of their reach and ca<g ref="char:EOLhyphen"/>pacity, let them ſubmit wiſely and diſcreetly
+<pb n="66" facs="tcp:37821:39"/>to them who are more able; and let not th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſence of a man in ſuch a buſineſs as this is, ſcare or amaze a woman, but let her ſubmit her ſelf in the fear of God, in which fear le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the man work and operate; and the bleſſing of God attend all ſuch operations, <hi>&amp;c.</hi>
+            </p>
+            <p>Fourthly, The next thing in order is of a dead child.</p>
+            <p>In fore travel of child-birth, by reaſon of great and long labour, the child is oftentimes killed, and ſometimes before a womans pains come upon her, through ſome preternatural accidents, <hi>&amp;c.</hi>
+            </p>
+            <p>Signs. 1. A dead child is known when the motion thereof ceaſeth, which either the mother did feel, or the Midwife perceive by her hand laid on, or either warm and ſtrengthning things, which were wont to awaken and rowſe up the powers thereof, when they were in a ſlumber or ſtupified.</p>
+            <p n="2">2. The mother finds a greater ſenſe of weight, with which and pain of the belly they are troubled.</p>
+            <p n="3">3. When the woman turns from <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſide to another, ſhe perceives the child to roul or fall from one ſide to another like a ſtone.</p>
+            <p n="4">4. The lower part of her belly feels very cold, their eyes hollow, face pale, dugs flag<g ref="char:EOLhyphen"/>gy, and at length a ſtinking moiſture like water and blood flows from the womb, their
+<pb n="67" facs="tcp:37821:39"/>belly is blown up with vapours, a filthy ſmell of the womans breath, and the body all over ſmells unpleaſingly. And</p>
+            <p n="5">5. Mark this, if the after-birth be exclu<g ref="char:EOLhyphen"/>ded before the child, it is a certain token that the child is dead in the womb.</p>
+            <p>Cure. For cure hereof, it conſiſts wholly in the excluſion or extraction of the dead child; and becauſe handy-work and opera<g ref="char:EOLhyphen"/>tion is to co-operate with internal medicines, I forbear to mention any, ſuppoſing he whoſe imployment it is to do the buſineſs, is of my mind, to make uſe of his own reme<g ref="char:EOLhyphen"/>dies.</p>
+            <p>However, all thoſe things may be given as hopeful ones, in the caſe of a dead as well as a living child; I mean thoſe things I ſpoke of in order to help a hard labour, in the chapter fore-going.</p>
+            <p>Men fit for either of theſe two difficult works, as to clear a dead child from a living woman, or to take a live child from a dead woman, as is ſometimes done, and is poſſible; they had need be men fearing God and eſchewing evil, always minding and labou<g ref="char:EOLhyphen"/>ring, in the diſcharge of their truſt or work, to keep a conſcience void of offence, both towards God and towards man, re<g ref="char:EOLhyphen"/>membring that ſaying of the Holy Ghoſt, <hi>That all things are naked and open unto the eyes of him with whom we have to do.</hi>
+            </p>
+            <p n="5">
+               <pb n="68" facs="tcp:37821:40"/> 5. Of the after-birth retained.</p>
+            <p>In a natural birth, commonly the <hi>ſecun<g ref="char:EOLhyphen"/>dine</hi> or after-birth is excluded preſently after the child; yet ſometimes it is retained in the womb or part thereof, notwithſtanding the Midwives care, by which means the mother is in great danger of her life.</p>
+            <p>Signs. Signs of the after-birth retained are needleſs, it being apparent of it ſelf; yet ſometimes a bit or piece thereof is ſevered from the whole &amp; retained, which is not ſo eaſie to be known, but may be known and apprehended
+<list>
+                  <item>1. Becauſe the womb after the birth doth yet labour to caſt ſomething forth, although theſe endeavours are not ſo great as before.</item>
+                  <item>2. There is perceived in the womb a ſenſe of pain and heat.</item>
+                  <item>3. After certain days, a filthy and carri<g ref="char:EOLhyphen"/>on-like ſmell exhales from the womb.</item>
+               </list>
+            </p>
+            <p>Cure. Theſe things in wiſdom may be given and adminiſtred, that are propounded to help a hard labour, and expel a dead child; to which I ſhall adde this, which hath proved very ſucceſſeful. Take of the tops of green <hi>Lovage,</hi> ſtamp them, and ſtrain out the juice with a little Rheniſh wine, add thereto ten drops of oil of <hi>Juniper berries,</hi> and ſo give it ſweetned with ſyrup of <hi>Bawm:</hi> But ſome<g ref="char:EOLhyphen"/>times ſo it is, that without the hand of a skil<g ref="char:EOLhyphen"/>ful
+<pb n="69" facs="tcp:37821:40"/>operator this diſeaſe cannot be moved; therefore I adviſe not long delay, before ſuch an one in ſuch a caſe be made uſe of, the conſequences that attend this diſtemper be<g ref="char:EOLhyphen"/>ing dangerous, which will be the ready way of cure, they doubtleſs being provided with ſome ſpecifical remedy to help alſo in the caſe.</p>
+            <p n="6">6. Of immoderate flux of child-bed pur<g ref="char:EOLhyphen"/>gations.</p>
+            <p>The immoderate flux of child-bed purga<g ref="char:EOLhyphen"/>tions, is not to be eſtimated from the quantity or the time of continuance, becauſe that in divers natures, ages, and courſes of life, it is very different: But from the ill-bearing of the woman, and her weakneſs there-from ariſing, <hi>&amp;c.</hi>
+            </p>
+            <p>Signs. Signs immoderate flux of child-bed purgations, is known as hath been ſaid, from the ſtrength of that woman that is dejected through the exhauſtion of her ſpirits, that iſſue with the blood, as alſo from
+<list>
+                  <item>1. The blood being much clotted.</item>
+                  <item>2. The Patients loathing of Meat.</item>
+                  <item>3. Being pained under her ſhort-ribs, and feeling a diſtention of her belly.</item>
+                  <item>4. Her pulſe is weak and frequent.</item>
+                  <item>5. Her ſight is dimed, and ſhe hath a noiſe in her ears.</item>
+                  <item>6. She is ſubject to ſwooning and Con<g ref="char:EOLhyphen"/>vulſions.</item>
+               </list>
+            </p>
+            <pb n="70" facs="tcp:37821:41"/>
+            <p> Theſe ſymptoms concurring and agree<g ref="char:EOLhyphen"/>ing, look out for help ſpeedily, for delays in this caſe are very dangerous.</p>
+            <p>Cure Obſerve, let her eat a thickning diet, as Panadies, Gellies, Rice, Calves-foot broth, Pears and Quinces boiled, roaſted fleſh and not boiled. Let her have plenty of meat, but a little at a time; let he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drink be water, wherein ſteel or gold is quenched, or in which a little <hi>Maſtick</hi> is boiled. Let her ſu<g ref="char:EOLhyphen"/>perior parts be rub'd and bound. Let her bathe her hands in hot wine, in which a lit<g ref="char:EOLhyphen"/>tle <hi>Alkermes</hi> is mixed, and let her belly be moderately well ſwadled.</p>
+            <p>Theſe things being obſerved, but expecta<g ref="char:EOLhyphen"/>tions not anſwered; beſides, what is ſaid be<g ref="char:EOLhyphen"/>fore in the immoderate flowing of the cour<g ref="char:EOLhyphen"/>ſes, which is good here, you may give this.</p>
+            <p>Take blood-ſtone four ſcruples, powder of <hi>Bole-armoniack,</hi> red Coral, prepared Pearls, of each one dram, ſeed of <hi>Plantain, Co<g ref="char:EOLhyphen"/>riander</hi> prepared, and grains of <hi>Sumach,</hi> of each two ſcruples, mix all, being reduced in<g ref="char:EOLhyphen"/>to fine powder, of which let her take one dram, with a decoction made with Knot<g ref="char:EOLhyphen"/>graſs, and Sheepherds purſe, ſweetned with ſyrup of Quinces.</p>
+            <p>Let her have a Plaiſter laid all over her belly, made with <hi>
+                  <g ref="char:V">Ʋ</g>ng. Comitiſſa.</hi>
+            </p>
+            <p>Theſe things being adminiſtred, and the
+<pb n="71" facs="tcp:37821:41"/>flux not abated, you ought with all imagi<g ref="char:EOLhyphen"/>nable care, diligence and ſpeed, ſeek out for further advice and ſupply, from them who are maſters of higher and powerfuller medi<g ref="char:EOLhyphen"/>cines in this caſe.</p>
+            <p>And becauſe I writ for the good and bene<g ref="char:EOLhyphen"/>fit of all my good Country-women, as alſo becauſe I have found theſe things worthy of my obſervation, you may take notice touch<g ref="char:EOLhyphen"/>ing the ſleep of a woman in this caſe; that while the blood flows plentifully, the wo<g ref="char:EOLhyphen"/>man muſt not be ſuffered to ſleep, for many by that means are taken away, becauſe the natural heat retiring inwards, increaſeth the flux.</p>
+            <p>But if ſleep in ſuch a caſe cannot be avoid<g ref="char:EOLhyphen"/>ed, then take this counſel; that ſome body be there by her all the while, frequently feel<g ref="char:EOLhyphen"/>ing her pulſe, and marking and obſerving her breath.</p>
+            <p n="7">7. Of ſuppreſſion of child bed purgations.</p>
+            <p>The good and happy ſucceſs of child<g ref="char:EOLhyphen"/>bearing, doth eſpecially depend upon the convenient and orderly flux of the courſes, or child-bed purgations, ſeeing the impuri<g ref="char:EOLhyphen"/>ties which have been collected in the veins of the womb, during the nine months time of the womans belly-bearing are wont to be avoided by theſe evacuations; but if they be ſuppreſſed wholly or diminiſhed, infinite
+<pb n="72" facs="tcp:37821:42"/>dangers and calamities ariſe thereby. As</p>
+            <p>Acute Feavers and Quinſies.</p>
+            <p>Phrenzies and Plureſies.</p>
+            <p>Madneſs and Melancholy.</p>
+            <p>Inflamation of the Lungs, <hi>&amp;c.</hi>
+            </p>
+            <p>Signs. This ſuppreſſion is manifeſt of it ſelf, but, as I told you concerning their im<g ref="char:EOLhyphen"/>moderateneſs, is not to be eſtimated from the quantity or time of continuance, becauſe, <hi>&amp;c.</hi> as there is ſhewed; ſo here I would have you to note that the diminution thereof is not to be judged by the quantity that comes away, becauſe ſome women have more ſu<g ref="char:EOLhyphen"/>perfluous blood, and ſome leſs: But the perfect knowledge, as in the other contrary caſe, ſo in this, is gathered from the ſuperve<g ref="char:EOLhyphen"/>nient ſymptoms, ſuch as theſe.
+<list>
+                  <item>1. A ſmelling of the belly.</item>
+                  <item>2. A pain poſſeſſing the nethermoſt part of the belly, the loins and groins.</item>
+                  <item>3. Redneſs of the face and difficult breath.</item>
+                  <item>4. Perturbation of the eyes and ſhivering fits.</item>
+                  <item>5. Feavers and fainting fits.</item>
+                  <item>6. Stomach ſickneſs ſometimes, and loſs of appetite.</item>
+               </list>
+            </p>
+            <p>Cure. It conſiſteth in provoking the men<g ref="char:EOLhyphen"/>ſtruals, from which purpoſe, though thoſe things are ſpecial good before-mentioned in he ſtoppage thereof, yet its to be obſerved,
+<pb n="73" facs="tcp:37821:42"/>they are not here to be given in reſpect of the different ſtate of the Patient.</p>
+            <p>In this caſe therefore Gliſters appropria<g ref="char:EOLhyphen"/>ted to the diſeaſe are convenient, and are in the firſt place to be made uſe of; make one thus.</p>
+            <p>Take <hi>Marſh-mallow</hi> roots, and <hi>Water-lilly</hi> roots, if you can get them, otherwiſe the o<g ref="char:EOLhyphen"/>ther, of each one ounce, long and round <hi>Birthwort,</hi> of each three drams, leaves of <hi>Mal<g ref="char:EOLhyphen"/>lows, Marſh-mallows, Pelitory, Mercury,</hi> of each one handful, <hi>Linſeed</hi> and <hi>Fenugreek ſeed,</hi> of each half an ounce, flower of <hi>Camomil</hi> and <hi>Elder,</hi> of each half a handful, boil all in Poſ<g ref="char:EOLhyphen"/>ſet drink to a pint, then ſtrain it, and in the liquor diſſolve oil of <hi>Dill</hi> and <hi>Lilly,</hi> of each one ounce, <hi>hiera ſimplex</hi> half an ounce, and ſo give it: And let her thighs be rubbed down<g ref="char:EOLhyphen"/>wards, and the toes of her feet be tied faſt till they ake again, and if need be let Cupping<g ref="char:EOLhyphen"/>glaſſes be faſtned to her groins and hips, and ſcarrification if need require.</p>
+            <p>If theſe things fail, ſhe muſt have a vein opered about the knees, thighs or foot, or leeches applyed to the Hemorrhoids. If the feaver forbid not, there may be given <hi>Troches</hi> of <hi>Myrrh</hi> one dram, powdered, with a little whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-wine.</p>
+            <p>If there be a feaver, this decoction hath been uſed ſucceſſefully, <hi>viz.</hi>
+            </p>
+            <pb n="74" facs="tcp:37821:43"/>
+            <p> Take <hi>French Barley</hi> one handful, Liquoriſh half an ounce, <hi>Schenanth</hi> one dram and a half, boil all in Poſſet-drink to a pint, which makes three doſes; one in the morning; a<g ref="char:EOLhyphen"/>nother about ten a clock, and the other about 4. in the afternoon, taking a little burnt-wine cold with burnt <hi>Cinnamon,</hi> wherein is dropped three or four drops of ſpirit of <hi>Sulphur.</hi> Pur<g ref="char:EOLhyphen"/>gation alſo ſometimes in this caſe, as it is ne<g ref="char:EOLhyphen"/>ceſſary, ſo may be uſed, but with great cau<g ref="char:EOLhyphen"/>tion; but certainly a medicine may be had in this caſe, that anſwers all intentions, <hi>&amp;c.</hi>
+            </p>
+            <p n="8">8. Of after-pains, or gripings after child<g ref="char:EOLhyphen"/>bearing.</p>
+            <p>Gripings do ſo frequently betide women in child-bed, that very few women are free from them, more or leſs.</p>
+            <p>Signs are needleſs be felt ſufficiently, and demonſtration thereof from the women.</p>
+            <p>Cure. According to Authors ought to be varied, according to thoſe ſeveral cauſes producing this troubleſome affliction; and therefore ſay they, ſometimes theſe gripings come from plenty of blood, its thickneſs, ſharpneſs, too much clotted, and the nar<g ref="char:EOLhyphen"/>rowneſs of the veſſel through which it is to paſs forth; the womb endeavouring new ex<g ref="char:EOLhyphen"/>pulſion ſtirreth up pain.</p>
+            <p>Furthermore, they ſay theſe gripings are cauſed by winds, or by cold received into
+<pb n="75" facs="tcp:37821:43"/>the womb, and ſometimes gripings be cauſed by a ſharp cholerick humor, each of which re<g ref="char:EOLhyphen"/>quiring a different cure. I am not here to di<g ref="char:EOLhyphen"/>ſpute with Authority, as to the cauſes of theſe gripings, only this; I do conceive that the ill affection of the <hi>Archeus</hi> of thoſe parts at that time uſhers in both the cauſe and the effect, ſo that one only medicine, as I have ſeveral times proved upon different conſti<g ref="char:EOLhyphen"/>tutions and parties, hath been ſufficient to remove, and that ſuddenly, thoſe trouble<g ref="char:EOLhyphen"/>ſome pains, by Gods bleſſing; but that me<g ref="char:EOLhyphen"/>dicine being of a Chymical preparation, it would ſignifie nothing, unleſs to the Sons of Art, to whom I write not now; however that I may not leave you deſtitute, no more in this than in other caſes, I ſhall give you a receipt or two which have been found to ma<g ref="char:EOLhyphen"/>ny of force and efficacy in this caſe, and in<g ref="char:EOLhyphen"/>deed are pertinent thereunto. Having given her therefore oil of ſweet Almonds new drawn, three ounces, with one ounce and an half of ſyrup of Violets,</p>
+            <p>And adminiſtred a Gliſter made with milk, <hi>Camomil</hi> flowers, and the yolks of eggs, let her take of this powder, <hi>viz.</hi>
+            </p>
+            <p>Take <hi>Date</hi> and <hi>Peach kernels,</hi> of each half a dram, <hi>Nutmegs</hi> four ſcruples, powder of <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amargaritum Calidum</hi> two drams, <hi>Aniſeed</hi> one dram, <hi>Cinnamon</hi> two ſcruples, <hi>Saffron</hi> ten
+<pb n="76" facs="tcp:37821:44"/>grains, Sugar, the weight of all the reſt; make all into a very fine powder, and give thereof in wine twice or thrice a day, two drams at a time.</p>
+            <p>Anointing her belly two or three times with oil of <hi>Dill, Camomil</hi> and <hi>Rue,</hi> of each a<g ref="char:EOLhyphen"/>like, doing of it ſo that no cold may be ta<g ref="char:EOLhyphen"/>ken.</p>
+            <p n="9">9. Of acute diſeaſes of women in child<g ref="char:EOLhyphen"/>bed. What we ſaid before touching the acute diſeaſes of women with child, we may now repeat touching the acute diſeaſes of women in child-bed, being of the ſame eſſence and ſigns with the like diſeaſes in women which are not with child.</p>
+            <p>Now thoſe acute diſeaſes are for the moſt part continual feavers, both eſſential, and al<g ref="char:EOLhyphen"/>ſo ſymptomical, which accompany inward inflamations, <hi>&amp;c.</hi>
+            </p>
+            <p>Yet there is a peculiar ſort of feaver, which almoſt befalls all women in child-bed, which is called by them the feaver of their milk, which is wont to befall them about the third or fourth day after they are brought to bed, when the milk begins to encreaſe in their breaſt; and for the ſatisfaction of thoſe who know not, and deſire to know: It ariſeth from the reflux of blood from the womb to the dugs, and the motion and agitation thereof; which kind of feaver needs not any
+<pb n="77" facs="tcp:37821:44"/>medicine, becauſe uſually within three or four days, <hi>viz.</hi> about the ninth day after her delivery it is finiſhed by ſweat (and from this conſideration it is, that I always, where it may be, perſwade all women in this caſe, never to riſe till the tenth day after being brought to bed) danger then being over.</p>
+            <p>As for ſigns and cures as to this head, the one is needleſs being the ſame with other perſons; and the other being dangerous, and the hourly advice (eſpecially in ſome caſes) and attendance of the Doctor needful, toge<g ref="char:EOLhyphen"/>ther with thoſe various ſymptoms that do ariſe, you may not expect from me here; not but that I am willing to direct, but the con<g ref="char:EOLhyphen"/>ſequences enſuing diſeaſes in this caſe, ad<g ref="char:EOLhyphen"/>miniſtrations being not legal, are ſo dange<g ref="char:EOLhyphen"/>rous and pernicious; that if I did ſubſcribe in that nature, yet it muſt be with no encou<g ref="char:EOLhyphen"/>ragement to the uſe of them without advice: for theſe and ſuch like reaſons I forbear inti<g ref="char:EOLhyphen"/>mating any remedies in this caſe, and you may not blame me, remembring that ſins of omiſſion are leſs than ſins of commiſſion<g ref="char:punc">▪</g> yet that you may ſee I am willing to en<g ref="char:EOLhyphen"/>lighten your judgment and inform you as far as I may accept and ſeriouſly view theſe few and weighty obſervations.</p>
+            <p>An acute diſeaſe befals a child-bed wo<g ref="char:EOLhyphen"/>man either in the beginning, or in the mid<g ref="char:EOLhyphen"/>dle,
+<pb n="78" facs="tcp:37821:45"/>or in the end of her lying in. Now mark,</p>
+            <p>If it happen in the beginning, and the wo<g ref="char:EOLhyphen"/>man be plentifully purged, there muſt be no other evacuation; blood-letting is forbid, Nature being rightly and conveniently a<g ref="char:EOLhyphen"/>bout her operations.</p>
+            <p>But if the child-bed purgations be ſuppreſ<g ref="char:EOLhyphen"/>ſed or flow ſparingly, if there be neceſſary occaſion the inferior veins may be opened, and a pretty good quantity of blood taken away, becauſe at that time the child-bed pur<g ref="char:EOLhyphen"/>gations of blood ought by the appointment of nature to be plentiful.</p>
+            <p>Next. If an acute diſeaſe happen in the middle time of her lying in, there is to be conſidered, whether the Morbifick matter be contained in one particular place, or whe<g ref="char:EOLhyphen"/>ther it be diſperſed through the veins, and whether the woman hath been conveniently purged or not in regard of quantity.</p>
+            <p>If the diſeaſe proceed from matter ſcatte<g ref="char:EOLhyphen"/>red abroad as in feavers, and the woman not fully purged, the lower veins may be opened, having two good indications; one is, the Mor<g ref="char:EOLhyphen"/>bifick matter will thereby be diminiſhed; and the other is, her natural flux or purgations provoked</p>
+            <p>But if the woman have been ſufficiently purged, yet if the diſeaſe get ground, and the
+<pb n="79" facs="tcp:37821:45"/>natural evacuation be not ſufficient for the diſeaſe, the inferior veins muſt be opened notwithſtanding, and ſo much blood muſt be taken away as is convenient, and the di<g ref="char:EOLhyphen"/>ſeaſe may require.</p>
+            <p>And ſo the further from her delivery, or the more dayes or weeks from her labour, if there be a neceſſity from any diſeaſes or fea<g ref="char:EOLhyphen"/>vers, either eſſential or ſymptomical, the more boldneſs may be in bleeding, and that eſpecially if the patient be ſurprized with any particular acute diſeaſe, as the Plurifie, Inflamation of the Lungs, Quinzy, and the like; and ſo much concerning blood-letting to women in child-bed.</p>
+            <p>The next obſervations will be concerning Purging, comprehended in theſe following maxims. While the child-bed purgations do naturally flow, a purge is never to be ad<g ref="char:EOLhyphen"/>miniſtred, fearing a diverting of nature from her buſineſs.</p>
+            <p>But if the child bed purgations be not kindly, conſider whether their fault conſiſt in quantity or quality.</p>
+            <p>If they offend in quantity, ſo as to be too lit<g ref="char:EOLhyphen"/>tle, the woman being not purged ſufficient<g ref="char:EOLhyphen"/>ly, or not at all as it were: After all other remedies, fit to procure theſe purgations, have been given in vain, and the Morbifick mat<g ref="char:EOLhyphen"/>ter appear digeſted, ten or twelve dayes be<g ref="char:EOLhyphen"/>ing
+<pb n="80" facs="tcp:37821:46"/>paſt ſince her being brought to bed, ac<g ref="char:EOLhyphen"/>cording to the more or leſs urgency of the diſeaſe, ſhe may be purged gently, but no ſtrong Phyſick muſt be given her.</p>
+            <p>If her child-bed purgations offend only in quality, ſo that a white flux, or ſome other unnatural colour do proceed from her, the matter being ripe, ſhe may in the latter part of her lying in be ſafely and advantageouſly be purged.</p>
+            <p>But this muſt ever be minded and obſer<g ref="char:EOLhyphen"/>ved, that by how much the longer a child<g ref="char:EOLhyphen"/>ing woman is diſtant from the day of her bringing to bed, by ſo much the more ſafe<g ref="char:EOLhyphen"/>ly, as in bleeding may ſhe be purged, and ſo contrary wiſe.</p>
+            <p>For experience hath taught us, that wo<g ref="char:EOLhyphen"/>men wanting their child-bed purgations, if after the ſeventh or ninth day, they are taken with a looſeneſs, they commonly eſcape; but if the looſeneſs ſeize upon them the firſt day, <hi>viz.</hi> on the ſecond, third, or fourth, for the moſt part they die; and that is all I ſhall offer in obſervation concerning thoſe two great evacuations, bleeding and purging, and ſo end my diſcourſe; only for the better di<g ref="char:EOLhyphen"/>rection of women or nurſes, in order to inform the Phyſician in the neceſſary point of time or knowledge of the diſeaſe firſt ſei<g ref="char:EOLhyphen"/>zing the party, I ſhall briefly anſwer this a<g ref="char:EOLhyphen"/>cute and difficult queſtion.</p>
+            <pb n="81" facs="tcp:37821:46"/>
+            <p> 
+               <hi>Queſt.</hi> Whether the computation of the dayes of the womans ſickneſs, ought to be made from the beginning of her diſeaſe, or from the day in which ſhe is delivered of her child.</p>
+            <p>
+               <hi>Anſ.</hi> If the birth of the child were natu<g ref="char:EOLhyphen"/>ral, attended with no grievous ſymptoms, and the child-bed purgations were as they ſhould be, and the feaver comes ſome dayes after, the account ought not to be made from the day of the childs birth, but from the day the feaver began, which was provoked by ſome other preternatural cauſe, <hi>viz.</hi> Evil humors lurking within the body, or from ſome external cauſe.</p>
+            <p>But if the child-birth were hard, and be<g ref="char:EOLhyphen"/>ſides the courſe of nature, and the feaver a<g ref="char:EOLhyphen"/>roſe after three or four days, we muſt reckon from the day of the childs-birth, becauſe then the whole order of the body began to be overthrown, and the humors to be diſturb<g ref="char:EOLhyphen"/>ed, which was followed by the feaver, <hi>&amp;c.</hi>
+            </p>
+            <p>And thus have I finiſhed my treating of womens diſeaſes, by Gods bleſſing whom. I pray that theſe my plain lines may be as candidly received and practiſed, as I in love tendred and offered them; that he may have honour and glory by this work, both by the writer and reader hereof.</p>
+            <p>Unto the latter of which, I further addreſs
+<pb n="82" facs="tcp:37821:47"/>my ſelf in order to their information, that I aſſume the cure of all diſeaſes curable in men or women, of all ſuch diſeaſes they are incident to as well as men; beſides theſe treated of before, and children with ſix ſorts of medicines and no more, for all ages, con<g ref="char:EOLhyphen"/>ſtitutions and complexions, only the Doſe variable.</p>
+            <p>The poſſibility and compleatneſs of it, by reaſon of thoſe multitude of medicines that are now in uſe, may ſeem ſtrange to moſt, but to thoſe that underſtand nature 'tis caſie, and wiſdom to agree and conſent to ſuch doctrine or truths.</p>
+            <p>And that the world may comprehend and imbrace this truth, I am now as treating of the medicines, ſo of the poſſibility and real truth thereof; nay further, that the beſt, ſpee<g ref="char:EOLhyphen"/>dy, fureſt, and ſafeſt way of curing diſeaſes is with a few good medicines, and not many compoſitions; but of theſe things elſe where.</p>
+            <p>Only here take the names and operations of theſe medicines, and ſo I proceed a little to ſhew the errors of women in many things appertaining to Phyſick, having finiſhed their diſeaſes curable by Phyſick.</p>
+            <p>Theſe ſix ſorts of medicines are called, and their operation is as followeth.
+<list>
+                  <item>1. <hi>Pul. Febrifuga.</hi> Whoſe operation is chiefly by vomit and ſweat, the principal medicine for Agues. The firſt inventor there<g ref="char:EOLhyphen"/>of,
+<pb n="83" facs="tcp:37821:47"/>
+                     <hi>Riverlus</hi> Phyſician to the preſent King of <hi>France.</hi>
+                  </item>
+                  <item>2. <hi>Ext. Magiſtrali.</hi> Whoſe operation is chiefly by ſtool.</item>
+                  <item>3. <hi>Pil. Nigra.</hi> Whoſe operation is chiefly by ſweating.</item>
+                  <item>4. <hi>Tinct. Sividalis.</hi> Whoſe operation is chiefly by urine.</item>
+                  <item>5. <hi>Laudanum Aſtringentum.</hi> Whoſe opera<g ref="char:EOLhyphen"/>tion is chiefly binding the body. And</item>
+                  <item>6. <hi>Elix. Cordialis.</hi> Whoſe operation is chiefly to comfort, refreſh and ſtrengthen, both vital, natural and animal ſpirits, and all the ſunctions of nature being temperate in quality, ſublime in operation, and penetra<g ref="char:EOLhyphen"/>ting in working.</item>
+               </list>
+            </p>
+            <p>Now I would have any one ſhew me ſuch a diſeaſe, unto which as proper remedies, ei<g ref="char:EOLhyphen"/>ther more or fewer of theſe medicines may not be adminiſtred ſucceſſefully if they can.</p>
+            <p>And that each of them are univerſal in their claſſes, or their kind. I ſhall ſufficiently prove elſe where.</p>
+            <p>Beſides theſe (and ſo I tell you all the chief medicines that I am or deſire to be maſter of, except ſome ſecret <hi>Aroanums</hi> and ſpecifical medicines proper only for women before mentioned) I have a noble and precious Li<g ref="char:EOLhyphen"/>quor which I call <hi>viam vitae,</hi> in order to the preſervation of health, and ſo conſequently a prolongation of life fitted for all Ages, Sexes,
+<pb n="84" facs="tcp:37821:48"/>and conſtitutions; and no doubt but happy will thoſe be that uſe the ſame with prayer and ſupplication in the concernments of their bodily or healthful ſtate, it being alſo in this great time of Contagion experienced to be of great force, in the preſervation and cure of the Plague. But this by way of digreſſion, yet I hope not altogether unſuitable nor im<g ref="char:EOLhyphen"/>pertinent.</p>
+            <p>I come now according to promiſe, looking upon this equally neceſſary with the other, to refute ſome errors commonly imbraced as truth amongſt ſome women, yea by ſome men alſo, concerning the ſubject that I am upon.</p>
+            <p>And herein you may not think that I will undertake the confutation of all, but only of thoſe which I judge moſt pernicious and re<g ref="char:EOLhyphen"/>diculous, and they are theſe.
+<list>
+                  <item>1. Some are of the opinion, that the Sex, and whether a woman be with child or no; may be known barely by the urine.</item>
+                  <item>2. Some alſo are of the opinion that the husband breeds his wives child.</item>
+                  <item>3. Some are opinion that it is hurtful for the ſick to change his linnen very often.</item>
+                  <item>4. Some are of the opinion that nothing but hot drinks are to be given to a woman in child-bed.</item>
+                  <item>5. Some are of opinion that medicines
+<pb n="85" facs="tcp:37821:48"/>Chymically prepared are dangerous.</item>
+                  <item>6. Some are of the opinion that bleeding and purging are hurtful for women with child.</item>
+                  <item>7. Some are of opinion that Gold boiled in broths is a great cordial and good for Con<g ref="char:EOLhyphen"/>ſumptions.</item>
+                  <item>8. Some have wrong opinions about their choice of Nurſes, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>A refutation I intend of all theſe, read them ſoberly, judge them wiſely, and practice conſcionably.</p>
+            <p n="1">1. Some are of the opinion that the Sex, and whether a woman be with child or no can barely be known by the urine.</p>
+            <p>This is a great error and miſtake in wo<g ref="char:EOLhyphen"/>men notwithſtanding: I know it is common, eſpecially in the latter caſe, for women to ſend their waters to the Doctors on purpoſe.</p>
+            <p>But that neither the ſex nor gravidity can be diſcerned and diſcovered barely by the urine, I will demonſtrate.</p>
+            <p n="1">1. Concerning the ſex, indeed the urine of a young man &amp; an old man, &amp; a man &amp; a wo<g ref="char:EOLhyphen"/>man, be different each from other; but mark, it is only in colour &amp; conſiſtance, which ſeeing they may be changed by divers other cauſes, it will not properly ſhew whether it be mans or womans; for a cholerick woman after exerciſe, and the uſe of hot meats will
+<pb n="86" facs="tcp:37821:49"/>make higher coloured urine than a flegma<g ref="char:EOLhyphen"/>tick man; moreover ſhe which hath a feaver or ſome other diſeaſe, without doubt, chan<g ref="char:EOLhyphen"/>ges her urine in ſome reſpects according to the nature of the diſeaſe, how is it then poſſi<g ref="char:EOLhyphen"/>ble for to diſcover ſex by the urine. I muſt be brief, but conſider what is ſaid, and it is ſufficient to convince, that there is no cer<g ref="char:EOLhyphen"/>tainty in it, and it is but raſhneſs for any to pronounce, or others to expect any ſuch thing by the urine.</p>
+            <p n="2">2. Concerning women with child, I would not have you think but that my pains to diſcover the ſame by urine, hath not been wanting, but much; and that I am not without thoſe obſervations and tokens left by Authors to poſterity, but never yet could I anſwer my own deſires herein; yet I have ſeveral times divined by urine women to be with child, and ſo it ſell out, but I muſt ſay that what I ſaid, nay further, what ever any ſay in this caſe, was and is but conjectural, and there is no certainty nor knowledge thereof in urine which I demonſtrate thus. Although moſt times, and in moſt perſons with child, the urine, is altered indeed either in one reſpect or other; yet we are to under<g ref="char:EOLhyphen"/>ſtand, that the urine is not changed by the gravidity it ſelf, but only by the ſuppreſ<g ref="char:EOLhyphen"/>ſion of the courſes, which as it cannot be de<g ref="char:EOLhyphen"/>nyed,
+<pb n="87" facs="tcp:37821:49"/>may alter the urine by the reflux of blood and excrements into the veins. But that ſame change of urine may appear in maids by the ſtopping of their courſes, yea or in other diſeaſes that ariſe from the like ſuppreſſion, as alſo in obſtructions of other internal parts, ſo that urine will manifeſt here no proper or peculiar thing; beſides, if the woman with child be ſick, the urine may be ſo changed by the violence of the diſeaſe, that all the ſigns of being with child, if there were any would be obliterate: Cer<g ref="char:EOLhyphen"/>tainly if ſuch a thing could have been, thoſe famous Phyſicians whoſe works are the di<g ref="char:EOLhyphen"/>ctators to all pis Prophets, would never have been deceived in their own wives in this caſe of being with child, till it evidently appeared by the infants motion, as they have left for the obſervation of Poſterity, how<g ref="char:EOLhyphen"/>ever in other things the fathers of pis Le<g ref="char:EOLhyphen"/>ctures.</p>
+            <p>Now I know many will ſay I have carried mine and others waters, and ſuch and ſuch a Doctor hath told me right, and he can tell.</p>
+            <p>To this I only ſay, ſo can and do I often, but this I ſay, it cannot barely be done by urine, as before demonſtrated; and what o<g ref="char:EOLhyphen"/>ther ways we have to conjecture by in ſuch caſes, I would freely diſcover, only fearing that the times and ſeaſons for the diſcovery of ſuch things are not yet come.</p>
+            <p n="2">
+               <pb n="88" facs="tcp:37821:50"/> 2. Some are of the opinion that the Huſ<g ref="char:EOLhyphen"/>band breeds his wives child, a common er<g ref="char:EOLhyphen"/>ror. This is an error common only to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for ought ever I could read or under<g ref="char:EOLhyphen"/>ſtand, and of all errors this ſeems moſt wor<g ref="char:EOLhyphen"/>thy to be laughed at, that the husband ſhould be thought to be ſick and troubled with the ſame ſymptoms wherewith a woman with child is wont, having not the ſame cauſe to procure it.</p>
+            <p>It is true, women with child in the firſt moneth of their conception are wont to be troubled with very many and ſundry ſym<g ref="char:EOLhyphen"/>proms, eſpecially Cacochymick and impure bodies; but obſerve this is not without ſome cauſe, which uſually is from the retention of the courſes, for ſeeing nature is wont to uſe that flux, not only for the purging out of ſu<g ref="char:EOLhyphen"/>perfluous blood, but of corrupt and vicious humors alſo, ſuch blood being retent and kept in, they are likewiſe retained, and that blood retained by reaſon of the ſmallneſs of the young one, in the beginning of her gra<g ref="char:EOLhyphen"/>vidity, is not all ſpent, for the nouriſhment thereof doth putrifie, and hath recourſe ei<g ref="char:EOLhyphen"/>ther to the noble parts, or at leaſt anoys them with filthy vapors which it ſends forth, from whence ariſe the foreſaid ſym<g ref="char:EOLhyphen"/>ptoms in the ſtomach, intrails, belly, head, and the whole body as vomiting, loathing of
+<pb n="89" facs="tcp:37821:50"/>meat, unſatiable longing, and luſting, gri<g ref="char:EOLhyphen"/>pings, dizzineſs of the head, and ſuch like; ſeeing therefore the husband hath not in him the cauſes of theſe effects, but his wife only, it ſtands with reaſon that ſhe only ſhould be ſick; what if the husband be ſick when his wife breeds a child, I hope it is not a Conta<g ref="char:EOLhyphen"/>gious diſeaſe, he is not infected by his wife; no, that diſtemper may happen through ſome default of his own body.</p>
+            <p>Indeed it is no new thing for husbands and wives to be ſick together; but it is a won<g ref="char:EOLhyphen"/>der, and hitherto a thing unknown that gra<g ref="char:EOLhyphen"/>vidity, or a womans being with child, is a Contagious or catching diſeaſe, and that not other women, but men only, whom nature hath freed from this kind of travel, ſhould be infected therewith.</p>
+            <p>Beſides, it is obſerved that the ſymptoms do not happen to all women, or at leaſt not all to every one, and yet it often falls out, that when the woman is in good health, the husband is ſick, yea ſometimes being many miles off; but if he induce that by his wives being with child, how comes it to paſs that ſhe continues well at the ſame time; for ob<g ref="char:EOLhyphen"/>ſerve this maxime in Philoſophy, That natu<g ref="char:EOLhyphen"/>ral cauſes do ſooner work upon the near, than upon the remote ſubject.</p>
+            <p>And for that cauſe, ſeeing the woman car<g ref="char:EOLhyphen"/>ries
+<pb n="90" facs="tcp:37821:51"/>about her ſuch noxious humors, ſhe ſhould be ſooner, yea and more grievouſly ſick.</p>
+            <p>I know ſomething might be ſaid of ſim<g ref="char:EOLhyphen"/>pathy, antipathy, contagion, faſcination, and ſuch like trifles; but if theſe things be ſo, I Query; why do not maids and widdows, (who are very often troubled with the like ſymptoms) through ſuppreſſion of their courſes infect their bed-fellows and famili<g ref="char:EOLhyphen"/>ars, ſeeing there is the ſame cauſe and ſym<g ref="char:EOLhyphen"/>pathy with ſome of them. But note, (and in this maxime I ſhew you one great natural cauſe, why many being with, and in the houſes of thoſe infected of the Plague this great Viſitation, and yet eſcaped them<g ref="char:EOLhyphen"/>ſelves alone.)</p>
+            <p>To cauſe a contagion. Not only the ef<g ref="char:EOLhyphen"/>ficacy of the agent, but alſo a diſpoſition and analogy in the patient is requiſite.</p>
+            <p>I ſhall ſay no more in this caſe, becauſe by the very relating of it the abſurdity of this error doth appear.</p>
+            <p n="3">3. Some are of the opinion that it is hurt<g ref="char:EOLhyphen"/>ful to change the linnen very often in time of ſickneſs. This error ſeems to me to ſpread moſt amongſt the common people, for they think that the ſick by changing their linnen are weakned and enfeebled thereby, which indeed is not true, for it doth rather ſtreng<g ref="char:EOLhyphen"/>then
+<pb n="91" facs="tcp:37821:51"/>them and revive them, only great care muſt be had in changing of the linnen, that the party catch no cold; for by long keeping of their linnen, there are three inconvenien<g ref="char:EOLhyphen"/>cies do happen to the ſick, <hi>viz.</hi>
+               <list>
+                  <item>1. The tranſpiration of the body is hin<g ref="char:EOLhyphen"/>dred.</item>
+                  <item>2. Sweat and filth are kept in their ſhirts, which do putrifie and contract an ill ſavour.</item>
+                  <item>3. The ſweat and filth do obſtruct the body, and ſo conſequently double the heat.</item>
+               </list>
+            </p>
+            <p>Which three things do much hurt and dammage to the ſick, eſpecially in continual feavers, in which for the moſt part the fea<g ref="char:EOLhyphen"/>ver coming as often as it doth by the ob<g ref="char:EOLhyphen"/>ſtructions of the pores of the skin; and therefore muſt be remedied, only let it, as I ſaid before, be done with great care, as to time, place &amp; ſeaſon, for yet I would promote truth above error, I would not give any en<g ref="char:EOLhyphen"/>couragement to wicked perſons in this na<g ref="char:EOLhyphen"/>ture, to do injury to any they are obliged to, either by conſcience or reward to attend; and therefore I conclude this point with this <hi>Memorandum,</hi> that ſins of omiſſion are ac<g ref="char:EOLhyphen"/>counted leſs than ſins of commiſſion.</p>
+            <p n="4">4. Some are of the opinion that nought but hot drinks are to be given to women in child-bed.</p>
+            <p>This is an error, and occaſions thoſe com<g ref="char:EOLhyphen"/>plaints
+<pb n="92" facs="tcp:37821:52"/>that are frequently made by women in ſuch caſes, <hi>viz.</hi> that they are grievouſly thirſty and hot, this being a maxime received by evil obſervation, that they may take no cooling thing, but only drinks actually and potentially hot, as burnt-wine with hot ſpi<g ref="char:EOLhyphen"/>ces, <hi>Cinnamon-water,</hi> and ſuch like; and theſe things, as uſually given, are often pernicious, and always tedious; yet both wine and cin<g ref="char:EOLhyphen"/>namon are good and allowable in ſuch ca<g ref="char:EOLhyphen"/>ſes. But obſerve,</p>
+            <p>There are divers conditions of women in child-bed, for ſome have in them a <hi>morbus</hi> preparative, and the ſickly humors being moved with the travel of the birth, do bring forth in them divers diſeaſes; but others in<g ref="char:EOLhyphen"/>joying a more perfect health do quickly re<g ref="char:EOLhyphen"/>turn to themſelves, and by little and little grow well again without any dangerous ſymptoms. To the former, ſtrong and hot drink are very hurtful, for they inflame the inward parts, and amend not the <hi>morbus</hi> hu<g ref="char:EOLhyphen"/>mors at all, but increaſe and corrupt them.</p>
+            <p>And to the latter ſort, which otherwiſe would recover their health, they may cauſe feavers and ſuch like diſeaſes; ſo that al<g ref="char:EOLhyphen"/>though I do not approve of very hot drink for the reaſons aforenamed, and others not here mentioned, yet I underſtand alſo very cold are not to be adminiſtred; but thoſe
+<pb n="93" facs="tcp:37821:52"/>that are warm and temperate in quality, and ſuch too as may be peculiarly proper in ſuch caſes.</p>
+            <p>Alſo in food there is a great error, women moſt commonly being fed high with much meat and very good nurſing, from the conſi<g ref="char:EOLhyphen"/>deration of loſing much, and it muſt be fetched up again, not conſidering what they daily loſe is for their benefit and advantage, and not hurtful.</p>
+            <p>And in this caſe I ſhall relate the obſerva<g ref="char:EOLhyphen"/>tion, and ſaying of that great Phyſician <hi>Hipp.</hi> 2. <hi>Acul.</hi> Where he teacheth that after a large evacuation we muſt not preſently ha<g ref="char:EOLhyphen"/>ſten to a full diet, fearing the multiplying of the excrementitious humors, and ſo a feaver enſue, and other ſymptoms happen, but let them be fed ſparingly, till all fear of a feaver and other ſymptoms be quaſht, and ſhe be well purged from her flowers, and then by degrees paſs to a fuller diet, and ſo ſtrength and health will come without danger by Gods bleſſing.</p>
+            <p>Now poſſibly it may here be expected, ſince I am in this field a plucking up, I ſhould alſo plant, ſince I am condemning ſome things, I ſhould place and ſet forth others.</p>
+            <p>Which thing I ſhould heartily and wil<g ref="char:EOLhyphen"/>lingly do, only theſe things ſtand in the way.</p>
+            <p n="1">1. Fearing few will reſent it well, and
+<pb n="94" facs="tcp:37821:53"/>fewer practice it, diſcreetly, diligently and ſingly, being linked to old cuſtoms.</p>
+            <p n="2">2. For want of which coming under my notion and directions, if any accident hap<g ref="char:EOLhyphen"/>pen, upon what account ſoever. Ignorance of ſome and ill-will in others, will bring un<g ref="char:EOLhyphen"/>der condemnation. And</p>
+            <p n="3">3. For want of room my ſheets having gone to the outmoſt of my intention, and the buſineſs of ſuch concernment, that to lay down any thing of ſuch a nature, it muſt not be done without qualifications and cautions.</p>
+            <p>However, if there be any gentlewoman or others, that out of an ingenious and right ſpirit would be ſatisfied and informed either her ſelf or others, according to the rules of Art, what diet, meaning both drink and food, a woman at ſuch a time ought in or<g ref="char:EOLhyphen"/>der to her good recovery, to take and make uſe of together, with what elſe may ſeem ne<g ref="char:EOLhyphen"/>ceſſary. I am willing, and upon requeſt ſhall anſwer their deſires according to the extent of my power and obſervations hear<g ref="char:EOLhyphen"/>tily, cordially, faithfully, and exactly, by writing or otherwiſe.</p>
+            <p n="5">5. Some are of the opinion that medi<g ref="char:EOLhyphen"/>cines Chymically prepared are dangerous, and very deſperate medicines, and ſo conſe<g ref="char:EOLhyphen"/>quently take no place, women being with child or in child-bed.</p>
+            <pb n="95" facs="tcp:37821:53"/>
+            <p> A great miſtake, and a falſe report raiſed by the enemies of that noble Art; in vindi<g ref="char:EOLhyphen"/>cation of which, as I am bound, ſo I could ſay much, but here I muſt comprize all in few words.</p>
+            <p>Underſtand then that Chymical prepara<g ref="char:EOLhyphen"/>tions are not dangerous at all, but ſafe, and the moſt ſuitable Phyſick that perſons in any caſe can make uſe of; and this I prove, becauſe the office of a Chymiſt is to ſeparate the pure from the impure, and ſo the pure part of either Vegitable, Animal or Mineral, given and adminiſtred, whereby diſeaſes are cured more quickly, ſafely and pleaſantly, which is demonſtrated both by the efficacy and Doſe of ſuch medicines.</p>
+            <p>But becauſe I would be rightly underſtood what I mean by pure and impure, and to ſtop the mouth of cavellers, I call that pure which is uſeful and profitable to mans na<g ref="char:EOLhyphen"/>ture, and I call that impure which is hurt<g ref="char:EOLhyphen"/>ful and dammageable; and becauſe in ſome ſenſe nothing can be called pure or impure abſolutely ſpeaking, I mean comparatively, and in reſpect of one thing to another; and ſo whatſoever pure can be found in any mixt or compound, that is the Chymical Phyſick which is made uſe of by Chymical Doctors, to ſerve their and their Patients ends and purpoſes, and that impure rejected as not fitting to be uſed.</p>
+            <pb n="96" facs="tcp:37821:54"/>
+            <p> So that if I ſhould ſay no more, any un<g ref="char:EOLhyphen"/>prejudicated perſon may ſafely and certainly conclude that the purer part of any thing is moſt fit for our bodies, yea, and the more ſafer medicine. Being freed from thoſe groſs and heterogenious ſubſtances, which are more ready to breed than cure diſeaſes.</p>
+            <p>But here poſſible may ariſe theſe three queſtions, which I ſhall briefly anſwer.</p>
+            <p n="1">1. Whether Chymiſtry doth not deal with the moſt deſperate and poiſonous things that are, as Quick-ſilver or Mercury, Anti<g ref="char:EOLhyphen"/>mony and Copper, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yes, and Gold and Silver too, which are deſperate poiſonous alſo as they may be taken; but what of that, ſhall a man be afraid of an Oyſter, becauſe the ſhell is able to choak him; the Oyſter is good meat, though the ſhell be nought, the Oyſter is pure, though the ſhell be impure; ſo likewiſe there is that in Mercury, Antimony and Cop<g ref="char:EOLhyphen"/>per, <hi>&amp;c.</hi> that is pure, and not deſperate nor poiſonous, but ſerviceable and of great uſe for all or moſt diſeaſes either of men, wo<g ref="char:EOLhyphen"/>men or children, and are ſafe adminiſtrati<g ref="char:EOLhyphen"/>ons in general, being internal cleanſers of the whole maſs of blood, expelling from it whatſoever the depravation of digeſtion and evil fermentation may have contracted and mixed in it, of dangerous and hurtful hu<g ref="char:EOLhyphen"/>mors;
+<pb n="97" facs="tcp:37821:54"/>and this pure, of mercury, antimony, copper, <hi>&amp;c.</hi> Is that which is uſed as Phyſick, and no other by chymical doctors, the dung<g ref="char:EOLhyphen"/>hil or ſome other mean imployment in that art, and not their patients taſting of the poi<g ref="char:EOLhyphen"/>ſonous or impure part in either of theſe or ought elſe, that is not ſuitable to our bodies in order to cure diſeaſes. But that this bug<g ref="char:EOLhyphen"/>bear may take the leſs advantage, it is to be underſtood that chymiſts work upon vege<g ref="char:EOLhyphen"/>tables &amp; animals as well as minerals, though this muſt be acknowledged, that the more nobler cures in chronical diſeaſes, have been and are chiefly conquered by thoſe me<g ref="char:EOLhyphen"/>dicines of the mineral kingdom; and judge you whether it be wiſdom in any to reject cure, though of a ſnake, ſo his ſting be out. And ſo I come to a ſecond queſtion, which may be.</p>
+            <p n="2">2. Whether the art of chymiſtry do or can ſeparate the pure from the impure, and ſo render thoſe things which otherwiſe are againſt us, for us, and thoſe things that are already for us, more for us.</p>
+            <p>
+               <hi>Anſ.</hi> Yes, and it is clearly evident, and that from thoſe things which are ſuch a<g ref="char:EOLhyphen"/>frightments, <hi>viz.</hi> mercury, antimony, medi<g ref="char:EOLhyphen"/>cines being daily made and given from them, that with ſafety are and may be given to chil<g ref="char:EOLhyphen"/>dren of a year old. We have ſaid in effect
+<pb n="98" facs="tcp:37821:55"/>before, impurity to be that which could in<g ref="char:EOLhyphen"/>terrupt the perfections of thoſe actions, which do conduct the mixt to the end of its natural predeſtination; the queſtion being now how it may be freed from this domeſtick e<g ref="char:EOLhyphen"/>nemy which inſenſibly doth creep into the compound. Now as all mixt are under ſeve<g ref="char:EOLhyphen"/>ral genders and differing ſpecies, and that there is ſeveral ſorts of impurities, ſo there are ſeveral ways in art to correct and take them away: but becauſe, to evident demon<g ref="char:EOLhyphen"/>ſtrations or particularize the parts of this do<g ref="char:EOLhyphen"/>ctrine, would extend beyond the limits of my intentions, I muſt forbear, and conclude that the pure from the impure can be ſepara<g ref="char:EOLhyphen"/>ted from mercury and antimony it ſelf by,
+<list>
+                  <item>1. Calcination.</item>
+                  <item>2. Sublimation.</item>
+                  <item>3. Diſtillation.</item>
+                  <item>4. Liquation.</item>
+                  <item>5. Extraction.</item>
+                  <item>6. Infuſion.</item>
+                  <item>7. Salification. And</item>
+                  <item>8. Mercurification.</item>
+               </list>
+            </p>
+            <p>Is undeniable, and as muſt ſo is granted by the arts greateſt enemies. Some medicines by theſe ways of preparations being uſed by themſelves. But.</p>
+            <p n="3">3. Some will further ſay, the whole age of the ancients wanted chymical remedies, who notwithſtanding cured diſeaſes very well, and it ſometimes happens that Phyſi<g ref="char:EOLhyphen"/>cians now a days perform great cures with<g ref="char:EOLhyphen"/>out them.</p>
+            <pb n="99" facs="tcp:37821:55"/>
+            <p> 
+               <hi>Anſ.</hi> It is queſtionable by ſome, whether our ancients were not eminent chymiſts; for <hi>Paracelſ.</hi> was not the firſt by many genera<g ref="char:EOLhyphen"/>tions; and of all thoſe, even to our days now, I find none but uſed it and eſteemed it high<g ref="char:EOLhyphen"/>ly, though I muſt confeſs they had but a taſte thereof. But ſuppoſe ſo, men in old time did feed on acorns and lived long; yet having now found out the uſe of corn, we re<g ref="char:EOLhyphen"/>ject acorns, and leave them to hogs. Again, if they did and now do, it was and is but ſome times, being befooled by many chroni<g ref="char:EOLhyphen"/>cal diſeaſes very often, and when they do perform any cure, their medicines do it but ſlowly and unpleaſantly; and there are but few, if any, chronical diſeaſes taken in any time, but chymical remedies will reach, and ſafely and ſpeedily cure. Indeed by reaſon of many impoſtors that through ignorance and covetouſneſs, have played both the fool and knave in theſe things, ſome miſcarriages might happen; but I juſtifie none but true ſons of art and true medicines, and ſuch are the moſt noble medicines the world doth afford; and I ſay once again may profitably and ſafely be given and adminiſtred to all ſorts of ſexes, conſtitutions, and in all conditions, being made, choſen and adminiſtred by an underſtanding and diſcreet hand. Nay, even in this our caſe in child-bed, being in regard
+<pb n="100" facs="tcp:37821:56"/>of their condition, the moſt powerful againſt all enemies, and moſt friendly to nature, commanding the <hi>Archeus</hi> beyond compare. I need ſay no more, the fame thereof ſpread<g ref="char:EOLhyphen"/>ing almoſt over all the whole world, &amp; gets much ground and favourites, even from the moſt noble, which if there were any ſuch thing in it as is ſuppoſed by ſome, no doubt but it would have been buried in ſilence, and lain in the duſt long ere this day. But</p>
+            <p n="6">6. Some are of the opinion that bleeding and purging are hurtful for women with child. It is too too common, eſpecially a<g ref="char:EOLhyphen"/>mongſt the Countrey-women, that if they be ſick and be with child, they will not ad<g ref="char:EOLhyphen"/>mit by no means to take Phyſick, or be let blood for fear of miſcarriage, which indeed is contrary
+<list>
+                  <item>1. To reaſon.</item>
+                  <item>2. To the Authority of the Ancients.</item>
+                  <item>3. To daily experience.</item>
+               </list>
+            </p>
+            <p n="1">1. To reaſon, becauſe a woman that la<g ref="char:EOLhyphen"/>bours with an acute diſeaſe, as a feaver or pluriſie,<hi>&amp;c.</hi> is in very great danger, there<g ref="char:EOLhyphen"/>fore no delay ought to be made in applying remedies, for we are to underſtand that the child is nouriſhed by the mothers blood, if ſhe be ſick there is danger, leaſt through that ſickneſs and the corruption of the blood the child periſh; which if it happen, as ſome<g ref="char:EOLhyphen"/>times
+<pb n="101" facs="tcp:37821:56"/>(though not very often) it doth, then is the mother in danger, both by reaſon of the diſeaſe and the dead child; or if not ſo, yet miſcarriages do generally attend ſickneſs of women with child, and there is no miſcarri<g ref="char:EOLhyphen"/>age without danger. Now its evident enough, that theſe evils cannot be prevented without taking away the cauſe, and the cauſe cannot be taken away according to the teſtimony of authority, without bleeding or purging, or both; for the ſame courſe that is taken to cure a woman not with child, and a wo<g ref="char:EOLhyphen"/>man with child, is all one and the ſame thing, neceſſary in the one as in the other; for the ſame diſeaſe indicates the ſame re<g ref="char:EOLhyphen"/>medies, and the being with child does not take away the indication of the diſeaſe, but only after a ſort alters the quantity, the qua<g ref="char:EOLhyphen"/>lity, and the manner of uſing them. Letting blood done with wiſdom and diſcretion, I have obſerved often doth rather revive and ſtrengthen, than weaken either mother or child, and ſo likewiſe purging duly admini<g ref="char:EOLhyphen"/>ſtred; the noxious part of the purge, if any, not reaching the womb, and that more about the work of retention than expulſion.</p>
+            <p n="2">2. To the authority of the ancients. <hi>Hipp.</hi> commends purging to women with child from the fourth month to the ſeaventh month; and if he whoſe medicines were more
+<pb n="102" facs="tcp:37821:57"/>dangerous than ours, as appears plainly, did and com<g ref="char:EOLhyphen"/>manded ſo, ſucceſſefully, much more may it be ſafe for us, our medicines being now in uſe for that purpoſe more gentle.</p>
+            <p n="3">3. To experience, for we find daily that women with child are let blood and purged once and again, and yet no damage, but profit and advantage coming by it; yea, many times to my own knowledge, women with child have been preſerved from miſcarriage by bleeding and purging, uſing only ſome ſpecifical medicines alſo, and never any caught the leaſt hurt. This then <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s clear, that women with child may purge and bleed ſafely and ad<g ref="char:EOLhyphen"/>vantagiouſly, but herein, when, where and what, be adviſed, <hi>&amp;c.</hi>
+            </p>
+            <p n="7">7. Some are of the opinion that gold boiled in broth is a great cordial, and good for women in child-bed, and to cure conſumptions Gold without doubt is of great vertue and excellency; yea the nobleſt, the moſt ſolid &amp; fixt of all metals compacted, and of an almoſt indivi<g ref="char:EOLhyphen"/>ſible union in its ſubſtance; and therefore, though it may be very choice and excellent in curing diſeaſes, being ſuch as is aforeſaid, which ſhews it to be compound<g ref="char:EOLhyphen"/>ed of ſalt, ſulphur and mercury, brought to the higheſt degrees of digeſtion, yet being ſouſed, as boiled in broth or taken in ſubſtance, the broth cannot take any vertue from it, only poſſible ſome droſs, it being ſo very com<g ref="char:EOLhyphen"/>pact as it can be diſſolved with no fire nor boiling; nei<g ref="char:EOLhyphen"/>ther can the digeſtive heat of the ſtomach, and the moi<g ref="char:EOLhyphen"/>ſture of imperfect chile, in any wiſe alter the ſolidity of this noble metal, ſuppoſing no broth nor liquor in the ſtomach analogous to <hi>Aq. Regia.</hi> Therefore thoſe who would have the vertues of gold for their help, muſt de<g ref="char:EOLhyphen"/>ſire the help of an ingenious chymiſt, who is able to open the body thereof, ſeparate and bring him into ſuch a medicine as is nearer to be reduced into its old body. I hope I have ſaid enough.</p>
+            <p n="8">8. Some have wrong opinions about their choice of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſes.</p>
+            <pb n="103" facs="tcp:37821:57"/>
+            <p> Gentlewomen and others that nurſe not their chil<g ref="char:EOLhyphen"/>dren themſelves, are very difficult uſually in their choice of a nurſe, and herein they are not to be blamed, but com<g ref="char:EOLhyphen"/>mended, for a good nurſe makes a thriving child; and ſhe ought not only to be diligent in her attendance, but be young, well be haved, of good conſtitution, uſing a good and wholſome diet, and to abſtain from venery. But in this caſe I have obſerved two things, which I think ought not to be ſo enquired after as they are, and therefore I ſhall endeavour their refutation.</p>
+            <p n="1">1. Whether the nurſes milk be old or no, and how long ſhe hath given ſuck, <hi>&amp;c.</hi> ſuppoſing the milk not to be ſo wholſome for a new-born child, and therefore ſometimes prefer a nurſe that is elder, which hath but lately given ſuck, before one that is young, if ſhe hath given ſuck longer; and herein they err, for the woman being young and qualified for ſuch a work, ought to be preſerred far before the more elder, though ſhe have given ſuck longe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſeeing that every day the breaſts of nurſes do afford new milk, becauſe every day new milk is made, and hath the ſame cauſes of generation after five years, which it had the firſt month; for ſeeing that the milk doth participate of the nature of its material and efficient cauſe, &amp; is generated out of theſe cauſes only, if the nurſe be healthful, and free from care, anger and ſorrow of mind, and ſeed on good and wholſome meats; there is no doubt but ſhe gives always good and wholſome milk, for the milk doth partake of the nature of the bloud of which it is made; but in a healthful body nouriſhed with wholſome meats, good bloud is always made, and of good bloud is not wont to be made bad and unwholſome milk, if the body be in health; nor can gi<g ref="char:EOLhyphen"/>ving ſuck it ſelf alter or viciate the milk, foraſmuch as nature ordains nothing that is evil, and it would be ill for the child every day the nurſes milk were made worſe by giving ſuck. When therefore occaſion is of<g ref="char:EOLhyphen"/>fered, I chuſing a nurſe, let only her conſtitution, health<g ref="char:EOLhyphen"/>fulneſs and age be conſidered.</p>
+            <p n="2">
+               <pb n="104" facs="tcp:37821:58"/> 2. It is ſuppoſed by many that a boys milk is fitteſt for a girl, and a girls for a boy; and therefore this is ano<g ref="char:EOLhyphen"/>ther enquiry, ſuppoſing the boys milk is hotter, and therefore fitteſt for the girl, and contrariwiſe that the girls milk is cooler, and ſo fitteſt for the boy.</p>
+            <p>Two things againſt this.</p>
+            <p n="1">1. They ſuppoſe amiſs, that a female is always colder than a male, whenas experience teſtifies that ſome wo<g ref="char:EOLhyphen"/>men are hotter than ſome men, nor can a cholerick wo<g ref="char:EOLhyphen"/>man without cenſure be judged to be colder than a fleg<g ref="char:EOLhyphen"/>matick man: However</p>
+            <p n="2">2. They erre in ſuppoſing the childs ſucking can change the temper of the milk; for ſeeing (as we have ſaid) the nature of the milk doth ſollow the nature of the efficient cauſe, and of the meats of which it is made, what can the child do againſt theſe? for while it ſucks it cannot by contact alone change the conſtitution of the mother; therefore as I have ſaid before enquiry of theſe natures may be ſpared, and other things minded and en<g ref="char:EOLhyphen"/>quired after, as is already ſpecified.</p>
+            <p>And thus have I by Gods aſſiſtance finiſhed what I intend at this time, leaving the anſwering of ſeveral queſtions, or reſolving ſeveral queries, <hi>viz.</hi> What Sex with child of? and whether with child or no? Concer<g ref="char:EOLhyphen"/>ning longing twins and hair lips, <hi>&amp;c.</hi> till another ſea<g ref="char:EOLhyphen"/>ſon. Read, Conſider and Judge with a Spirit of Wiſdom, Meekneſs, Sobriety and Fear. And ſo for this work, as for all other good things.</p>
+            <p>Gloria Deo tribuanda, non nobis.</p>
+            <p>Chriſtian Reader <hi>Providence having diſpoſed me a former Wiſe that was very unhealthful, occaſioned my ſtudy and ſearch into womens diſeaſes; the advantage of which, as then, ſo of<g ref="char:EOLhyphen"/>ten ſince, ſucceſſefully tryed, moved me to this Publication: Ha<g ref="char:EOLhyphen"/>ving alſo experimental Remedies, externally applyed, for the perfect curing of worms, deafneſs, infirmities in eyes, defectneſs<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and ruddy or pimply faces, if curable, which the p<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> know before hand.</hi>
+            </p>
+            <closer>
+               <signed>By <hi>N. S.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37821:58"/>
+         </div>
+      </body>
+   </text>
+</TEI>
